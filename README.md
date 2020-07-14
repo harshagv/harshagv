@@ -19,20 +19,17 @@ Here are some ideas to get you started:
 
 # Hello! I'm Harsha 👋🏾‍👋🏾👨🏾‍💻🏾‍
 
-   <img src="https://github.com/harshagv/harshagv/blob/master/20200407_153146.jpg" width="600" height="500" alt="banner that says Harsha - cloud devops engineer, content creator and community organizer alongside a cartoon illustration of Harsha" style="float:left;">
+<img src="https://github.com/harshagv/harshagv/blob/master/20200407_153146.jpg" width="600" height="500" alt="banner that says Harsha - cloud devops engineer, content creator and community organizer alongside a cartoon illustration of Harsha" style="float:left;">
    
-<h3 style="float:right;">I am a Cloud DevOps engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. I recently was selected to be an inaugural <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community.  My interest in the React ecosystem led me to launch <a href="https://www.meetup.com/React-Ladies/">React Ladies</a>, a community for women and non-binary ReactJS developers.</h3>
+<p style="float:right;">I am a Cloud DevOps engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include DevOps, cloud migration, <a href="https://aws.amazon.com/">Amazon Web Services</a>, Kubernetes, Docker, Prometheus, ELK, Loki . I recently was selected to be an inaugural <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community.  My interest in the cloud services ecosystem led me to earn <a href="https://aws.amazon.com/certification/certified-devops-engineer-professional/">AWS Certified DevOps Engineer - Professional</a> certificate, and ScrumAlliance certified ScrumMaster|ProductOwner.</p>
 
-
-      
-      
 <div class="container">
 
-
-  <div class="text-block">
+   <div class="text-block">
     <h4>Nature</h4>
-    I am a Cloud DevOps engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include DevOps, cloud migration, Amazon Web Services, Kubernetes, Docker, Prometheus, ELK, Loki . I recently was selected to be an inaugural <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community.  My interest in the React ecosystem led me to launch <a href="https://www.meetup.com/React-Ladies/">React Ladies</a>, a community for women and non-binary ReactJS developers.
-  </div>
+    I am a Cloud DevOps engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include DevOps, cloud migration, <a href="https://aws.amazon.com/">Amazon Web Services</a>, Kubernetes, Docker, Prometheus, ELK, Loki . I recently was selected to be an inaugural <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community.  My interest in the cloud services ecosystem led me to earn <a href="https://aws.amazon.com/certification/certified-devops-engineer-professional/">AWS Certified DevOps Engineer - Professional</a> certificate, and ScrumAlliance certified ScrumMaster|ProductOwner.
+
+   </div>
  
  <img src="/pix/samples/18l.jpg" style="max-width:100%;" alt="Photo of 3 cats">
  <img src="https://github.com/harshagv/harshagv/blob/master/20200407_153146.jpg" width="600" height="500" class="thumbnail" alt="gvh">	
