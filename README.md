@@ -23,7 +23,7 @@ I am a Cloud DevOps engineer who is passionate about making open-source more acc
 
 
 ## Find me around the web 🌎:
-- Website <a href="https://harshagv.wixsite.com/myinfo">MyInfo</a> 📹 ✍🏾
+<b>Website:<b> <a href="https://harshagv.wixsite.com/myinfo">MyInfo</a> 📹 ✍🏾
 <p align="left">
 	<a href="https://github.com/harshagv"><img src="https://img.shields.io/github/followers/harshagv.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<br></br>
