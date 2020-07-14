@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
    <div class="text-block">
     <h4>Nature</h4>
-    I am a Cloud DevOps engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include DevOps, cloud migration, <a href="https://aws.amazon.com/">Amazon Web Services</a>, Kubernetes, Docker, Prometheus, ELK, Loki . I recently was selected to be an inaugural <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community.  My interest in the cloud services ecosystem led me to earn <a href="https://www.certmetrics.com/amazon/public/badge.aspx?i=5&t=c&d=2019-12-03&ci=AWS00661785">AWS Certified DevOps Engineer - Professional</a> certificate, and ScrumAlliance certified ScrumMaster|ProductOwner.
+    I am a Cloud DevOps engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include DevOps, cloud migration, <a href="https://aws.amazon.com/">Amazon Web Services</a>, Kubernetes, Docker, Prometheus, ELK, Loki . I recently was selected to be an inaugural <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community.  My interest in the cloud services ecosystem led me to earn <a href="https://www.certmetrics.com/amazon/public/badge.aspx?i=5&t=c&d=2019-12-03&ci=AWS00661785">AWS Certified DevOps Engineer - Professional</a> certificate, and ScrumAlliance certified <a href="https://badgecert.com/bc/html/profile.jsp?k=fdoihhc">Scrum Master</a> and <a href="https://badgecert.com/bc/html/profile.jsp?k=xyhdzjz">Product Owner</a>.
 
    </div>
  
