@@ -34,4 +34,5 @@ I'm a Cloud DevOps engineer who is passionate about making open-source more acce
 	<a href="https://www.linkedin.com/in/harshagv"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 	<a href="https://harshagv.wixsite.com/myinfo"><img src="https://static.parastorage.com/unpkg/@wix/marketing-header-and-footer@1.0.2268/dist/statics/assets/wixLogo.svg?style=social&logo=MyInfo" alt="MyInfo"></a>
 	<img alt="Custom badge" src="https://img.shields.io/endpoint?style=flat-square&url=https%3A%2F%2Fstatic.parastorage.com%2Funpkg%2F%40wix%2Fmarketing-header-and-footer%401.0.2268%2Fdist%2Fstatics%2Fassets%2FwixLogo.svg">
+	<img alt="Custom badge" src="https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fimg.shields.io%2Fbadge%2FLinkedIn--_.svg">
 </p>
