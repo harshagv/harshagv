@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   </div>
  
  <img src="/pix/samples/18l.jpg" style="max-width:100%;" alt="Photo of 3 cats">
- <img src="https://github.com/harshagv/harshagv/blob/master/20200407_153146.jpg" class="thumbnail" alt="gvh">	
+ <img src="https://github.com/harshagv/harshagv/blob/master/20200407_153146.jpg" width="600" height="500" class="thumbnail" alt="gvh">	
 </div>
 
 <img src="https://github.com/harshagv/harshagv/blob/master/20200407_153146.jpg" width="600" height="400" alt="banner that says Harsha - cloud devops engineer, content creator and community organizer alongside a cartoon illustration of Harsha">
