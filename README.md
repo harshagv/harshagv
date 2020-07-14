@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # Hello! I'm Harsha 👋🏾‍👋🏾👨🏾‍💻🏾‍
 <div class="container">
-<img src="https://github.com/harshagv/harshagv/blob/master/20200407_153146.jpg" width="600" height="500" alt="banner that says Harsha - cloud devops engineer, content creator and community organizer alongside a cartoon illustration of Harsha">
+<img src="https://github.com/harshagv/harshagv/blob/master/20200407_153146.jpg" width="600" height="500" alt="banner that says Harsha - cloud devops engineer, content creator and community organizer alongside a cartoon illustration of Harsha" style="float:left;">
 	
   <div class="text-block">
     <h4>Nature</h4>
