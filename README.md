@@ -32,5 +32,5 @@ I'm a Cloud DevOps engineer who is passionate about making open-source more acce
 	<a href="https://github.com/harshagv"><img src="https://img.shields.io/github/followers/harshagv.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<a href="https://twitter.com/harsha_gv"><img src="https://img.shields.io/twitter/follow/harsha_gv?label=Twitter&style=social" alt="Twitter"></a>
 	<a href="https://www.linkedin.com/in/harshagv"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-	<a href="https://harshagv.wixsite.com/myinfo"><img src="https://static.parastorage.com/unpkg/@wix/marketing-header-and-footer@1.0.2268/dist/statics/assets/wixLogo.svg" alt="MyInfo"></a>
+	<a href="https://harshagv.wixsite.com/myinfo"><img src="https://static.parastorage.com/unpkg/@wix/marketing-header-and-footer@1.0.2268/dist/statics/assets/wixLogo.svg?style=social&logo=MyInfo" alt="MyInfo"></a>
 </p>
