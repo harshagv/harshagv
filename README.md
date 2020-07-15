@@ -26,23 +26,6 @@ Here are some ideas to get you started:
 <br />
 
 
-<div class="container">
-   <div class="text-block">
-   ## Find me around the web 🌎:
-  <b>Website:<b> <a href="https://harshagv.wixsite.com/myinfo">MyInfo</a> 📹 ✍🏾
-  <p align="left">
-    <a href="https://github.com/harshagv"><img src="https://img.shields.io/github/followers/harshagv.svg?label=GitHub&style=social" alt="GitHub"></a>
-    <br></br>
-    <a href="https://twitter.com/harsha_gv"><img src="https://img.shields.io/twitter/follow/harsha_gv?label=Twitter&style=social" alt="Twitter"></a>
-    <br></br>
-    <a href="https://www.linkedin.com/in/harshagv"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-  </p>
-   </div>
-</div>
-
-
-
-
 
 
 ## Find me around the web 🌎:
