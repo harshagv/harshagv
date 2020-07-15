@@ -2,6 +2,9 @@
 ☀
 ⚡
 🌈
+🛸
+💬
+🌟
 <!--
 **harshagv/harshagv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -29,21 +32,29 @@ Here are some ideas to get you started:
 
 
 ## Find me around the web 🌎:
-<b>Website:<b> <a href="https://harshagv.wixsite.com/myinfo">MyInfo</a> 📹 ✍🏾
+<b>Website:<b> <a href="https://harshagv.wixsite.com/myinfo">MyInfo</a> 📹✍
 <p align="left">
   <a href="https://github.com/harshagv"><img src="https://img.shields.io/github/followers/harshagv.svg?label=GitHub&style=social" alt="GitHub"></a>
   <br></br>
   <a href="https://twitter.com/harsha_gv"><img src="https://img.shields.io/twitter/follow/harsha_gv?label=Twitter&style=social" alt="Twitter"></a>
   <br></br>
   <a href="https://www.linkedin.com/in/harshagv"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+  <br></br>  
+  <a href="https://www.twitch.tv/harsha_gv"><img src="https://img.shields.io/github/followers/harshagv.svg?label=Twitch&style=social" alt="Twitch"></a>  
 </p>
+
+
+
+- <a href="https://github.com/harshagv"><img src="https://img.shields.io/github/followers/harshagv.svg?label=GitHub&style=social" alt="GitHub"></a>
+- <a href="https://twitter.com/harsha_gv"><img src="https://img.shields.io/twitter/follow/harsha_gv?label=Twitter&style=social" alt="Twitter"></a>
+- <a href="https://www.linkedin.com/in/harshagv"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+- <a href="https://www.twitch.tv/harsha_gv"><img src="https://img.shields.io/github/followers/harshagv.svg?label=Twitch&style=social" alt="Twitch"></a>
 
 
 <br/>
 <a href="https://harshagv.wixsite.com/myinfo">
   <img align="left" alt="MyInfo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/wix.svg" />
 </a>
-
 <a href="https://twitter.com/harsha_gv">
   <img align="left" alt="Hemant Joshi| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -53,6 +64,11 @@ Here are some ideas to get you started:
 <a href="https://t.me/harsha_gv">
   <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
+<a href="https://t.me/harsha_gv">
+  <img align="left" alt="Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/twitch.svg" />
+</a>
+
+
 <a href="https://leetcode.com/harsha_gv/">
   <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
@@ -61,3 +77,4 @@ Here are some ideas to get you started:
 <br />
 
 [![Github Stats By Harsha](https://github-readme-stats.vercel.app/api?username=harshagv&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
