@@ -30,7 +30,6 @@ Here are some ideas to get you started:
 
 
 ## Find me around the web 🌎:
-<b>Website:<b> <a href="https://harshagv.wixsite.com/myinfo">MyInfo</a> 📹✍
 
 <br/>
 <a href="https://harshagv.wixsite.com/myinfo">
@@ -57,6 +56,7 @@ Here are some ideas to get you started:
 <a href="https://join.skype.com/invite/GIgzT5tdn8GY">
   <img align="left" alt="Harsha G V | Skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/skype.svg" />
 </a>
+
 <br />
 <br />
 
