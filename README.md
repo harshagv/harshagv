@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-### Hi there, I am [Harsha!](https://harshagv.wixsite.com/myinfo) 👋.  <img src="https://github.com/harshagv/harshagv/blob/master/gvh.jpg" >
-
+### Hi there, I am [Harsha!](https://harshagv.wixsite.com/myinfo) 👋. 
 
 <br />
 
