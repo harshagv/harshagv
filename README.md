@@ -1,4 +1,4 @@
-# Hello! I'm Harsha 👋🏾‍👋🏾👨🏾‍💻🏾‍
+# Hello! I am [Harsha!](https://harshagv.wixsite.com/myinfo) 👋👋🏾‍👋🏾👨🏾‍💻🏾‍🌟
 
 <!--
 **harshagv/harshagv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,22 +15,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<br />
 
-### Hi there, I am [Harsha!](https://harshagv.wixsite.com/myinfo) 👋. 
+<img align="right" src="https://github.com/harshagv/harshagv/blob/master/gvh.jpg" width="400" height="900" alt="banner that says Harsha - cloud devops engineer, alongside a cartoon illustration of Harsha" style="float:left;">   
+
+<p align="left">I am a Cloud DevOps engineer who is passionate about making designing and automating the process of software delivery and deployments on the cloud, and building community. Some technologies I enjoy working with include DevOps, cloud migration, <a href="https://aws.amazon.com/">Amazon Web Services</a>, Kubernetes, Docker, Prometheus, ELK, Loki . I recently was selected to be an inaugural <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community.  My interest in the cloud services ecosystem led me to earn <a href="https://www.certmetrics.com/amazon/public/badge.aspx?i=5&t=c&d=2019-12-03&ci=AWS00661785">AWS Certified DevOps Engineer - Professional</a> certificate, and ScrumAlliance certified <a href="https://badgecert.com/bc/html/profile.jsp?k=fdoihhc">Scrum Master</a> and <a href="https://badgecert.com/bc/html/profile.jsp?k=xyhdzjz">Product Owner</a>.</p>
 
 <br />
 
-<img align="left" src="https://github.com/harshagv/harshagv/blob/master/gvh.jpg" width="400" height="900" alt="banner that says Harsha - cloud devops engineer, alongside a cartoon illustration of Harsha" style="float:left;">   
 
-<p align="right">I am a Cloud DevOps engineer who is passionate about making designing and automating the process of software delivery and deployments on the cloud, and building community. Some technologies I enjoy working with include DevOps, cloud migration, <a href="https://aws.amazon.com/">Amazon Web Services</a>, Kubernetes, Docker, Prometheus, ELK, Loki . I recently was selected to be an inaugural <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community.  My interest in the cloud services ecosystem led me to earn <a href="https://www.certmetrics.com/amazon/public/badge.aspx?i=5&t=c&d=2019-12-03&ci=AWS00661785">AWS Certified DevOps Engineer - Professional</a> certificate, and ScrumAlliance certified <a href="https://badgecert.com/bc/html/profile.jsp?k=fdoihhc">Scrum Master</a> and <a href="https://badgecert.com/bc/html/profile.jsp?k=xyhdzjz">Product Owner</a>.</p>
-
-<br />
-## Find me around the web 🌎:
-<b>Website:<b> <a href="https://harshagv.wixsite.com/myinfo">MyInfo</a> 📹 ✍🏾
-<p align="left">
-	<a href="https://github.com/harshagv"><img src="https://img.shields.io/github/followers/harshagv.svg?label=GitHub&style=social" alt="GitHub"></a>
-	<br></br>
-	<a href="https://twitter.com/harsha_gv"><img src="https://img.shields.io/twitter/follow/harsha_gv?label=Twitter&style=social" alt="Twitter"></a>
-	<br></br>
-	<a href="https://www.linkedin.com/in/harshagv"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-</p>
+<div class="container">
+   <div class="text-block">
+   ## Find me around the web 🌎:
+  <b>Website:<b> <a href="https://harshagv.wixsite.com/myinfo">MyInfo</a> 📹 ✍🏾
+  <p align="left">
+    <a href="https://github.com/harshagv"><img src="https://img.shields.io/github/followers/harshagv.svg?label=GitHub&style=social" alt="GitHub"></a>
+    <br></br>
+    <a href="https://twitter.com/harsha_gv"><img src="https://img.shields.io/twitter/follow/harsha_gv?label=Twitter&style=social" alt="Twitter"></a>
+    <br></br>
+    <a href="https://www.linkedin.com/in/harshagv"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+  </p>
+   </div>
+</div>
