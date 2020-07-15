@@ -1,4 +1,4 @@
-# ☁️ Hello! I am [Harsha!](https://harshagv.wixsite.com/myinfo) 👋👋🏾‍👋🏾👨🏾‍💻🏾‍🌟 ☁️
+# ☁️ Hello! I am [Harsha!](https://harshagv.wixsite.com/myinfo) 👋👋🏾‍👨🏾‍💻🏾‍🌟 ☁️
 ☀
 ⚡
 🌈
