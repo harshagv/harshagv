@@ -29,15 +29,13 @@ Here are some ideas to get you started:
 <br />
 
 
-
-
 ## Find me around the web 🌎:
 <b>Website:<b> <a href="https://harshagv.wixsite.com/myinfo">MyInfo</a> 📹✍
 
 <a href="https://github.com/harshagv"><img src="https://img.shields.io/github/followers/harshagv.svg?label=GitHub&style=social" alt="GitHub"></a>
 <a href="https://twitter.com/harsha_gv"><img src="https://img.shields.io/twitter/follow/harsha_gv?label=Twitter&style=social" alt="Twitter"></a>
 <a href="https://www.linkedin.com/in/harshagv"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-<a href="https://www.twitch.tv/harsha_gv"><img src="https://img.shields.io/github/followers/harshagv.svg?label=Twitch&style=social" alt="Twitch"></a>
+<a href="https://www.twitch.tv/harshagv"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/twitch.svg?label=Twitch&style=social" alt="Twitch"></a>
 
 
 <br/>
@@ -53,16 +51,86 @@ Here are some ideas to get you started:
 <a href="https://t.me/harsha_gv">
   <img align="left" alt="Harsha G V | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://t.me/harsha_gv">
+<a href="https://www.twitch.tv/harshagv">
   <img align="left" alt="Harsha G V | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/twitch.svg" />
 </a>
 <a href="https://leetcode.com/harsha_gv/">
   <img align="left" alt="Harsha G V | Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
-
+<a href="https://stackoverflow.com/users/10053482/harsha-g-v">
+  <img align="left" alt="Harsha G V | Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/stackoverflow.svg" />
+</a>
+<a href="https://join.skype.com/invite/GIgzT5tdn8GY">
+  <img align="left" alt="Harsha G V | Skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/skype.svg" />
+</a>
 <br />
 <br />
 
 [![Github Stats By Harsha](https://github-readme-stats.vercel.app/api?username=harshagv&show_icons=true&line_height=50&hide=["stars","prs"])](https://github.com/anuraghazra/github-readme-stats)
 
 
+## Languages 
+
+<a href="#">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">
+</a>  
+
+<a href="#">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
+</a>  
+
+<a href="#">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:6px 4px">
+</a> 
+
+## Services 
+
+<a href="#">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:6px 4px">
+</a>  
+
+
+<a href="https://aws.amazon.com/">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:6px 4px">
+</a> 
+
+<a href="https://azure.microsoft.com/en-us/">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg/dev/services/azure.svg" alt="azure" style="vertical-align:top; margin:6px 4px">
+</a> 
+
+<a href="https://www.docker.com/">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg/dev/services/dockerhub.svg" alt="docker" style="vertical-align:top; margin:6px 4px">
+</a> 
+
+<a href="https://kubernetes.io/">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg/dev/services/kubernetes.svg" alt="kubernetes" style="vertical-align:top; margin:6px 4px">
+</a> 
+
+## Social & Professional 
+
+<a href="https://www.linkedin.com/in/harshagv/">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
+</a>  
+
+<a href="https://twitter.com/harsha_gv">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
+</a>
+
+<a href="https://join.skype.com/invite/GIgzT5tdn8GY">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg/social/skype.svg" alt="skype" style="vertical-align:top; margin:6px 4px">
+</a> 
+
+<a href="https://stackoverflow.com/users/10053482/harsha-g-v">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg/social/stackoverflow.svg" alt="stackoverflow" style="vertical-align:top; margin:6px 4px">
+</a>   
+
+<a href="https://t.me/harsha_gv">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg/social/telegram.svg" alt="telegram" style="vertical-align:top; margin:6px 4px">
+</a>
+
+## Streaming & Videos  
+
+
+  <a href="https://www.twitch.tv/harshagv">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg/streaming/twitch.svg" alt="twitch" style="vertical-align:top; margin:6px 4px">
+  </a>  
