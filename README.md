@@ -42,27 +42,27 @@ Here are some ideas to get you started:
 
 <br/>
 <a href="https://harshagv.wixsite.com/myinfo">
-  <img align="left" alt="MyInfo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/wix.svg" />
+  <img align="left" alt="Harsha G V | MyInfo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/wix.svg" />
 </a>
 <a href="https://twitter.com/harsha_gv">
-  <img align="left" alt="Hemant Joshi| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Harsha G V | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/harshagv/">
-  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Harsha G V | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://t.me/harsha_gv">
-  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Harsha G V | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://t.me/harsha_gv">
-  <img align="left" alt="Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/twitch.svg" />
+  <img align="left" alt="Harsha G V | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/twitch.svg" />
 </a>
-
-
 <a href="https://leetcode.com/harsha_gv/">
-  <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+  <img align="left" alt="Harsha G V | Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 
 <br />
 <br />
 
 [![Github Stats By Harsha](https://github-readme-stats.vercel.app/api?username=harshagv&show_icons=true&line_height=50&hide=["stars","prs"])](https://github.com/anuraghazra/github-readme-stats)
+
+
