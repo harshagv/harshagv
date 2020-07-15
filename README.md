@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <br />
 
-<img align="right" src="https://github.com/harshagv/harshagv/blob/master/gvh.jpg" width="300" height="640" alt="banner that says Harsha - cloud devops engineer, alongside a cartoon illustration of Harsha" style="float:left;">   
+<img align="right" src="https://github.com/harshagv/harshagv/blob/master/gvh.jpg" width="311" height="640" alt="banner that says Harsha - cloud devops engineer, alongside a cartoon illustration of Harsha" style="float:left;">   
 
 <p align="left">I am a ☁️ DevOps engineer who is passionate about designing and automating the process of software delivery and deployments on the cloud, and building community. Some technologies I enjoy working with include DevOps, cloud migration, <a href="https://aws.amazon.com/">Amazon Web Services</a>, Kubernetes, Docker, Prometheus, ELK, Loki . My interest in the cloud services ecosystem led me to earn <a href="https://www.certmetrics.com/amazon/public/badge.aspx?i=5&t=c&d=2019-12-03&ci=AWS00661785">AWS Certified DevOps Engineer - Professional</a> certificate, and ScrumAlliance certified <a href="https://badgecert.com/bc/html/profile.jsp?k=fdoihhc">Scrum Master</a> and <a href="https://badgecert.com/bc/html/profile.jsp?k=xyhdzjz">Product Owner</a>.</p>
 
