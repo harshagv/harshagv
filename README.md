@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/harshagv"><img src="https://img.shields.io/github/followers/harshagv.svg?label=GitHub&style=social" alt="GitHub"></a>
 <a href="https://twitter.com/harsha_gv"><img src="https://img.shields.io/twitter/follow/harsha_gv?label=Twitter&style=social" alt="Twitter"></a>
 <a href="https://www.linkedin.com/in/harshagv"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-<a href="https://www.twitch.tv/harshagv"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/twitch.svg?label=Twitch&style=social" alt="Twitch"></a>
+<a href="https://www.twitch.tv/harshagv"><img src="https://img.shields.io/github/followers/harshagv.svg?label=Twitch&style=social" alt="Twitch"></a>
 
 
 <br/>
@@ -131,6 +131,6 @@ Here are some ideas to get you started:
 ## Streaming & Videos  
 
 
-  <a href="https://www.twitch.tv/harshagv">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg/streaming/twitch.svg" alt="twitch" style="vertical-align:top; margin:6px 4px">
-  </a>  
+<a href="https://www.twitch.tv/harshagv">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg/streaming/twitch.svg" alt="twitch" style="vertical-align:top; margin:6px 4px">
+</a>  
