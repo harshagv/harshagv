@@ -65,5 +65,4 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-[![Github Stats By Harsha](https://github-readme-stats.vercel.app/api?username=harshagv&show_icons=true&line_height=50)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Github Stats By Harsha](https://github-readme-stats.vercel.app/api?username=harshagv&show_icons=true&line_height=50&hide=["stars","prs"])](https://github.com/anuraghazra/github-readme-stats)
