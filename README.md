@@ -14,9 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!DOCTYPE html>
-<html>
-<body style="background-color:#E6E6FA;">
-   
-</body>
-</html>
+- ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `#1589F0`
