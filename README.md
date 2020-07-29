@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 🌟
 
 ## Find me around the web 🌎:
+
 <br/>
 <a href="https://harshagv.wixsite.com/myinfo">
   <img align="left" alt="Harsha G V | MyInfo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/wix.svg" />
@@ -61,6 +62,7 @@ Here are some ideas to get you started:
 <br />
 
 ## My Github Stats 👨🏾‍💻:
+
 [![Github Stats By Harsha](https://github-readme-stats.vercel.app/api?username=harshagv&show_icons=true&line_height=50&hide=["stars","prs"])](https://github.com/anuraghazra/github-readme-stats)
    
 </body>
