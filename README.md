@@ -15,7 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![#1589F0] 
-
-
-`#1589F0`
+![#1589F0] `#1589F0`
