@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!DOCTYPE html>
+<html>
 <body style="background-color:blue;">
   
 <img align="right" src="https://github.com/harshagv/harshagv/blob/master/gvh.jpg" width="311" height="659" alt="banner that says Harsha - cloud devops engineer, alongside a cartoon illustration of Harsha" style="float:left;">   
@@ -29,7 +32,6 @@ Here are some ideas to get you started:
 🌟
 
 ## Find me around the web 🌎:
-
 <br/>
 <a href="https://harshagv.wixsite.com/myinfo">
   <img align="left" alt="Harsha G V | MyInfo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/wix.svg" />
@@ -60,7 +62,7 @@ Here are some ideas to get you started:
 <br />
 
 ## My Github Stats 👨🏾‍💻:
-
 [![Github Stats By Harsha](https://github-readme-stats.vercel.app/api?username=harshagv&show_icons=true&line_height=50&hide=["stars","prs"])](https://github.com/anuraghazra/github-readme-stats)
    
 </body>
+</html>
