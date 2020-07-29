@@ -23,14 +23,10 @@ Here are some ideas to get you started:
 <p align="left">I am a ☁️ DevOps engineer who is passionate about designing and automating the process of software delivery and deployments on the cloud, and building community. Some technologies I enjoy working with include DevOps, cloud migration, <a href="https://aws.amazon.com/">Amazon Web Services</a>, <a href="https://kubernetes.io/">Kubernetes</a>, <a href="https://www.docker.com/">Docker</a>, <a href="https://prometheus.io/">Prometheus</a>, <a href="https://www.elastic.co/what-is/elk-stack">ELK Stack</a>, <a href="https://grafana.com/oss/loki/">Loki</a>. My interest in the cloud services ecosystem led me to earn <a href="https://www.certmetrics.com/amazon/public/badge.aspx?i=5&t=c&d=2019-12-03&ci=AWS00661785">AWS Certified DevOps Engineer - Professional</a> certificate, and Scrum Alliance certified <a href="https://badgecert.com/bc/html/profile.jsp?k=fdoihhc">Scrum Master</a> and <a href="https://badgecert.com/bc/html/profile.jsp?k=xyhdzjz">Product Owner</a>.</p>
 
 <br />
-☀
-⚡
-🌈
-🛸
-💬
-🌟
 
-## Find me around the web 🌎:
+                                       ☀ ⚡ 🌈 🛸 🌟
+
+## Find me around the web 🌎💬:
 
 <br/>
 <a href="https://harshagv.wixsite.com/myinfo">
