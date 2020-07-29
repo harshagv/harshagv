@@ -24,7 +24,11 @@ Here are some ideas to get you started:
 
 <br />
 
-                                       ☀ ⚡ 🌈 🛸 🌟
+☀
+⚡ 
+🌈 
+🛸
+🌟
 
 ## Find me around the web 🌎💬:
 
