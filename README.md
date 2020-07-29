@@ -14,10 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <!DOCTYPE html>
 <html>
-<body style="background-color:blue;">
+<body style="background-color:#E6E6FA;">
   
 <img align="right" src="https://github.com/harshagv/harshagv/blob/master/gvh.jpg" width="311" height="659" alt="banner that says Harsha - cloud devops engineer, alongside a cartoon illustration of Harsha" style="float:left;">   
 
