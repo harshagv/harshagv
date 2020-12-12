@@ -1,4 +1,4 @@
-# ☁️ Hello! I am [Harsha!](https://harshagv.wixsite.com/myinfo) 👋🏾‍👨🏾‍💻🌟 ☁️
+# ☁️ Hello! I am [Harsha!](https://harshagv.wixsite.com/myinfo) 👋👨‍💻🥇🌏🌟 ☁️
 
 <!--
 **harshagv/harshagv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,15 +21,30 @@ Here are some ideas to get you started:
 
 <br />
 
-☀
+☀️
 ⚡ 
 🌈 
 🛸
 🌟
+🌞
+⭐️
+💯
+💡
+<br/>
+
+## Interests:
+🚴‍♂️
+🏊‍♂️
+🏋️‍♂️
+🌄🏃‍♂️
+✈️
+🚀
+🎯
+🎲
+🖥️
+<br/>
 
 ## Find me around the web 🌎💬:
-
-<br/>
 <a href="https://harshagv.wixsite.com/myinfo">
   <img align="left" alt="Harsha G V | MyInfo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/wix.svg" />
 </a>
@@ -66,3 +81,5 @@ Here are some ideas to get you started:
 
 
 ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+)`#1589F0`
+
+🔵🟣☀
