@@ -1,4 +1,4 @@
-# ☁️ Hello! I am [Harsha!](https://harshagv.wixsite.com/myinfo) 👋👨‍💻🥇🌏🌟 ☁️
+# ☁️ Hello! I am [Harsha!](https://harshagv.wixsite.com/myinfo) 👋👨‍💻🥇🌏🌟☁️🏆
 
 <!--
 **harshagv/harshagv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
