@@ -70,17 +70,9 @@ Here are some ideas to get you started:
   <img align="left" alt="Harsha G V | Skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/skype.svg" />
 </a>
 
-<br />
-
 <p align="left">
   <img src="https://github.com/harshagv/harshagv/blob/master/src/imgs/aws-banner.gif" width="699" height="299" alt="aws cloud banner that says Mr.Harsha - a cloud enthusiast">
 </p>
-
-<br />
-<br />
-<br />
-<br />
-
 
 ## My Github Stats 👨🏾‍💻:
 
