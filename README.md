@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="left">I am a ☁️ Cloud DevOps engineer who is passionate about designing and automating the process of software delivery and deployments on the cloud, and building community. Some technologies I enjoy working with include DevOps tools chain, cloud migration, <a href="https://aws.amazon.com/">Amazon Web Services</a>, <a href="https://azure.microsoft.com/en-us/">Microsoft Azure</a>, <a href="https://kubernetes.io/">Kubernetes</a>, <a href="https://www.docker.com/">Docker</a>, <a href="https://github.com/GoogleContainerTools">GoogleContainerTools</a>, <a href="https://prometheus.io/">Prometheus</a>, <a href="https://grafana.com/">Grafana</a>, <a href="https://www.elastic.co/what-is/elk-stack">ELK Stack</a>, <a href="https://www.datadoghq.com/product/">Datadog</a>, <a href="https://grafana.com/oss/loki/">Loki</a>, <a href="https://www.ansible.com/overview/it-automation">Ansible</a>, <a href="https://spinnaker.io/">Spinnaker</a>, <a href="https://travis-ci.org/">travis-ci</a>, <a href="https://circleci.com/">circleci</a>, <a href="https://www.jenkins.io/">jenkins</a>, <a href="https://www.terraform.io/">Terraform</a>. My interest in the cloud services ecosystem led me to earn <a href="https://www.certmetrics.com/amazon/public/badge.aspx?i=5&t=c&d=2019-12-03&ci=AWS00661785">AWS Certified DevOps Engineer - Professional</a> certificate, and Scrum Alliance certified <a href="https://badgecert.com/bc/html/profile.jsp?k=fdoihhc">Scrum Master</a> and <a href="https://badgecert.com/bc/html/profile.jsp?k=xyhdzjz">Product Owner</a>.</p>
 
-<br />
+<br/>
 ☀️
 ⚡ 
 🌈 
@@ -42,6 +42,9 @@ Here are some ideas to get you started:
 🎯
 🎲
 🖥️
+<br/>
+<br/>
+<br/>
 <br/>
 
 ## Find me around the web 🌎💬:
@@ -71,19 +74,18 @@ Here are some ideas to get you started:
 </a>
 
 
-<br />
-<br />
-<br />
-<br />
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 ## My Github Stats 👨🏾‍💻:
 
 [![Github Stats By Harsha](https://github-readme-stats.vercel.app/api?username=harshagv&show_icons=true&theme=tokyonight&line_height=36&hide=["stars","prs"])](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="right">
-  <img src="https://github.com/harshagv/harshagv/blob/master/src/imgs/aws-banner.gif" width="555" height="299" alt="aws cloud banner that says Mr.Harsha - a cloud enthusiast">
-</p>
-
+<img align="right" src="https://github.com/harshagv/harshagv/blob/master/src/imgs/aws-banner.gif" width="555" height="299" alt="aws cloud banner that says Mr.Harsha - a cloud enthusiast">
 
 ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+)`#1589F0`
 
