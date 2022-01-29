@@ -83,7 +83,7 @@ Here are some ideas to get you started:
 
 ## My Github Stats 👨🏾‍💻:
 
-[![Github Stats By Harsha](https://github-readme-stats.vercel.app/api?username=harshagv&show_icons=true&theme=tokyonight&line_height=39&card_width=41&hide=["stars","prs"])](https://github.com/anuraghazra/github-readme-stats)
+[![Github Stats By Harsha](https://github-readme-stats.vercel.app/api?username=harshagv&show_icons=true&theme=tokyonight&line_height=33&card_width=41&hide=["stars","prs"])](https://github.com/anuraghazra/github-readme-stats)
 
 <img align="right" src="https://github.com/harshagv/harshagv/blob/master/src/imgs/aws-banner.gif" width="456" height="299" alt="aws cloud banner that says Mr.Harsha - a cloud enthusiast">
 
@@ -93,6 +93,8 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 <br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshagv&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+)`#1589F0`
 
