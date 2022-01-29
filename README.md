@@ -90,8 +90,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshagv&langs_count=9&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats) 
 
-
-[![Github Stats By Harsha](https://github-readme-stats.vercel.app/api?username=harshagv&show_icons=true&theme=cobalt&line_height=20&card_width=10&hide=["stars","prs"])](https://github.com/anuraghazra/github-readme-stats) 
+[![Github Stats By Harsha](https://github-readme-stats.vercel.app/api?username=harshagv&show_icons=true&theme=cobalt&line_height=20&width=10&hide=["stars","prs"])](https://github.com/anuraghazra/github-readme-stats) 
 
 ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+)`#1589F0`
 
