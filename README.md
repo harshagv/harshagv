@@ -71,17 +71,16 @@ Here are some ideas to get you started:
 </a>
 
 <br />
-<br />
-
-<br />
-<br />
-
-
 
 <p align="center">
   <img align="left" src="https://github.com/harshagv/harshagv/blob/master/src/imgs/aws-banner.gif" width="699" height="299" alt="aws cloud banner that says Mr.Harsha - a cloud enthusiast">
 </p>
 
+<p align="center">
+</p>
+
+<p align="center">
+</p>
 
 <br />
 <br />
