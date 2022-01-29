@@ -83,7 +83,7 @@ Here are some ideas to get you started:
 
 ## My Github Stats 👨🏾‍💻:
 
-[![Github Stats By Harsha](https://github-readme-stats.vercel.app/api?username=harshagv&show_icons=true&theme=tokyonight&line_height=33&card_width=41&hide=["stars","prs"])](https://github.com/anuraghazra/github-readme-stats)
+[![Github Stats By Harsha](https://github-readme-stats.vercel.app/api?username=harshagv&show_icons=true&theme=tokyonight&line_height=33&card_width=33&hide=["stars","prs"])](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshagv&langs_count=9)](https://github.com/anuraghazra/github-readme-stats)
 
