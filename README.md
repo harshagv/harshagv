@@ -84,7 +84,7 @@ Here are some ideas to get you started:
 <br/>
 
 
-<img align="right" src="https://github.com/harshagv/harshagv/blob/master/src/imgs/aws-banner.gif" width="333" height="506" alt="aws cloud banner that says Mr.Harsha - a cloud enthusiast">
+<img align="right" src="https://github.com/harshagv/harshagv/blob/master/src/imgs/aws-banner.gif" width="329" height="506" alt="aws cloud banner that says Mr.Harsha - a cloud enthusiast">
 
 ## My Github Stats 👨🏾‍💻:
 
