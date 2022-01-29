@@ -88,7 +88,7 @@ Here are some ideas to get you started:
 
 ## My Github Stats 👨🏾‍💻:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshagv&langs_count=9&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats) [![Github Stats By Harsha](https://github-readme-stats.vercel.app/api?username=harshagv&show_icons=true&theme=cobalt&line_height=39&hide_title=true&hide=["stars","prs"])](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshagv&langs_count=9&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats) [![Github Stats By Harsha](https://github-readme-stats.vercel.app/api?username=harshagv&show_icons=true&theme=cobalt&line_height=41&hide_title=true&hide=["stars","prs"])](https://github.com/anuraghazra/github-readme-stats) 
 
 ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+)`#1589F0`
 
