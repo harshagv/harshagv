@@ -76,20 +76,11 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-
-
-<h1></h1>
-<p align="left"> </p>
-<p align="left"> </p>
-<p align="left"> </p>
-<p align="left"> </p>
-<h1></h1>
-
 ## My Github Stats 👨🏾‍💻:
 
 [![Github Stats By Harsha](https://github-readme-stats.vercel.app/api?username=harshagv&show_icons=true&theme=tokyonight&line_height=36&hide=["stars","prs"])](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="left">
+<p align="right">
   <img src="https://github.com/harshagv/harshagv/blob/master/src/imgs/aws-banner.gif" width="555" height="299" alt="aws cloud banner that says Mr.Harsha - a cloud enthusiast">
 </p>
 
