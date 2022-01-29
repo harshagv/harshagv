@@ -79,11 +79,13 @@ Here are some ideas to get you started:
 
 
 <h1></h1>
-
+<p align="left"> </p>
+<p align="left"> </p>
+<p align="left"> </p>
 <p align="left">
   <img src="https://github.com/harshagv/harshagv/blob/master/src/imgs/aws-banner.gif" width="999" height="299" alt="aws cloud banner that says Mr.Harsha - a cloud enthusiast">
 </p>
-
+<p align="left"> </p>
 <h1></h1>
 
 ## My Github Stats 👨🏾‍💻:
