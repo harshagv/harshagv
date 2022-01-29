@@ -72,8 +72,8 @@ Here are some ideas to get you started:
 
 <br />
 
-<p align="center">
-  <img align="left" src="https://github.com/harshagv/harshagv/blob/master/src/imgs/aws-banner.gif" width="699" height="299" alt="aws cloud banner that says Mr.Harsha - a cloud enthusiast">
+<p align="left">
+  <img src="https://github.com/harshagv/harshagv/blob/master/src/imgs/aws-banner.gif" width="699" height="299" alt="aws cloud banner that says Mr.Harsha - a cloud enthusiast">
 </p>
 
 <p align="center">
