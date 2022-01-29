@@ -84,14 +84,14 @@ Here are some ideas to get you started:
 <br/>
 
 
-<img align="right" src="https://github.com/harshagv/harshagv/blob/master/src/imgs/aws-banner.gif" width="469" height="506" alt="aws cloud banner that says Mr.Harsha - a cloud enthusiast">
+<img align="right" src="https://github.com/harshagv/harshagv/blob/master/src/imgs/aws-banner.gif" width="429" height="506" alt="aws cloud banner that says Mr.Harsha - a cloud enthusiast">
 
 ## My Github Stats 👨🏾‍💻:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshagv&langs_count=9&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats) 
 
 
-[![Github Stats By Harsha](https://github-readme-stats.vercel.app/api?username=harshagv&show_icons=true&theme=cobalt&line_height=33&card_width=33&hide=["stars","prs"])](https://github.com/anuraghazra/github-readme-stats) 
+[![Github Stats By Harsha](https://github-readme-stats.vercel.app/api?username=harshagv&show_icons=true&theme=cobalt&line_height=33&card_width=29&hide=["stars","prs"])](https://github.com/anuraghazra/github-readme-stats) 
 
 ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+)`#1589F0`
 
