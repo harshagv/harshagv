@@ -82,15 +82,17 @@ Here are some ideas to get you started:
 <p align="left"> </p>
 <p align="left"> </p>
 <p align="left"> </p>
-<p align="left">
-  <img src="https://github.com/harshagv/harshagv/blob/master/src/imgs/aws-banner.gif" width="999" height="299" alt="aws cloud banner that says Mr.Harsha - a cloud enthusiast">
-</p>
 <p align="left"> </p>
 <h1></h1>
 
 ## My Github Stats 👨🏾‍💻:
 
 [![Github Stats By Harsha](https://github-readme-stats.vercel.app/api?username=harshagv&show_icons=true&theme=tokyonight&line_height=36&hide=["stars","prs"])](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="left">
+  <img src="https://github.com/harshagv/harshagv/blob/master/src/imgs/aws-banner.gif" width="555" height="299" alt="aws cloud banner that says Mr.Harsha - a cloud enthusiast">
+</p>
+
 
 ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+)`#1589F0`
 
