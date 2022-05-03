@@ -85,6 +85,7 @@ Here are some ideas to get you started:
 <br/>
 
 
+
 ## My Github Stats 👨🏾‍💻:
 
 <img align="right" src="https://github.com/harshagv/harshagv/blob/master/src/imgs/aws-banner-rotated.gif" width="303" height="506" alt="aws cloud banner that says Mr.Harsha - a cloud enthusiast">
@@ -96,4 +97,3 @@ Here are some ideas to get you started:
 🔵🟣☀
 
 <h1></h1>
-
