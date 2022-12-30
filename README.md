@@ -52,29 +52,32 @@ Here are some ideas to get you started:
 <br/>
 
 ## Find me around the web 🌎💬:
+<a href="https://www.credly.com/users/harshagv/badges">
+  <img align="left" alt="Harsha G V | Credly" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/credly.svg" />
+</a>
 <a href="https://harshagv.wixsite.com/myinfo">
-  <img align="left" alt="Harsha G V | MyInfo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/wix.svg" />
+  <img align="left" alt="Harsha G V | MyInfo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/wix.svg" />
 </a>
 <a href="https://twitter.com/harsha_gv">
-  <img align="left" alt="Harsha G V | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Harsha G V | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/harshagv/">
-  <img align="left" alt="Harsha G V | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Harsha G V | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" />
 </a>
 <a href="https://t.me/harsha_gv">
-  <img align="left" alt="Harsha G V | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Harsha G V | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/telegram.svg" />
 </a>
 <a href="https://www.twitch.tv/harshagv">
-  <img align="left" alt="Harsha G V | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/twitch.svg" />
+  <img align="left" alt="Harsha G V | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/twitch.svg" />
 </a>
 <a href="https://leetcode.com/harsha_gv/">
-  <img align="left" alt="Harsha G V | Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+  <img align="left" alt="Harsha G V | Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/leetcode.svg" />
 </a>
 <a href="https://stackoverflow.com/users/10053482/harsha-g-v">
-  <img align="left" alt="Harsha G V | Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/stackoverflow.svg" />
+  <img align="left" alt="Harsha G V | Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/stackoverflow.svg" />
 </a>
 <a href="https://join.skype.com/invite/GIgzT5tdn8GY">
-  <img align="left" alt="Harsha G V | Skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/skype.svg" />
+  <img align="left" alt="Harsha G V | Skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/skype.svg" />
 </a>
 
 
