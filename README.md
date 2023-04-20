@@ -80,7 +80,9 @@ Here are some ideas to get you started:
 <a href="https://join.skype.com/invite/GIgzT5tdn8GY">
   <img align="left" alt="Harsha G V | Skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/skype.svg" />
 </a>
-
+<a href="https://medium.com/@harsha.gv">
+  <img align="left" alt="Harsha G V | Skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" />
+</a>
 
 <br/>
 <br/>
