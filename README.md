@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 <p align="left">I am a ☁️ Cloud DevSecOps engineer, passionate about development, designing and automating the process of software delivery and deployments on the cloud, and building community. Some technologies I enjoy working with includes DevSecOps tools chain, cloud migration, <a href="https://aws.amazon.com/">Amazon Web Services</a>, <a href="https://azure.microsoft.com/en-us/">Microsoft Azure</a>, <a href="https://kubernetes.io/">Kubernetes</a>, <a href="https://www.docker.com/">Docker</a>, <a href="https://github.com/GoogleContainerTools">GoogleContainerTools</a>, <a href="https://prometheus.io/">Prometheus</a>, <a href="https://grafana.com/">Grafana</a>, <a href="https://www.elastic.co/what-is/elk-stack">ELK Stack</a>, <a href="https://www.datadoghq.com/product/">Datadog</a>, <a href="https://grafana.com/oss/loki/">Loki</a>, <a href="https://www.ansible.com/overview/it-automation">Ansible</a>, <a href="https://argo-cd.readthedocs.io/en/stable/">GitOps tool 一 ArgoCD</a>, <a href="https://spinnaker.io/">Spinnaker</a>, <a href="https://travis-ci.org/">travis-ci</a>, <a href="https://circleci.com/">circleci</a>, <a href="https://www.jenkins.io/">jenkins</a>, <a href="https://www.terraform.io/">Terraform</a>. 
   
-My interest in the cloud services ecosystem led me to earn
-1. <a href="https://www.credly.com/badges/238268f2-9296-4d38-9a97-cf2c8c87cec6">AWS Certified DevOps Engineer - Professional certificate</a>
-2. <a href="https://www.credly.com/badges/70f4c532-01b6-41fc-85cd-05be931b6d67">AWS Certified Solution Architect - Professional certificate</a>
+My interest in the cloud services ecosystem led me to earn these certificates from `AWS` and `Linux Foundation`:
+1. <a href="https://www.credly.com/badges/70f4c532-01b6-41fc-85cd-05be931b6d67">AWS Certified Solution Architect - Professional</a>
+2. <a href="https://www.credly.com/badges/238268f2-9296-4d38-9a97-cf2c8c87cec6">AWS Certified DevOps Engineer - Professional</a>
 3. <a href="https://www.credly.com/badges/f4ff4177-1d50-4ba3-9387-c2c193ea1033">CKS: Certified Kubernetes Security Specialist</a>
 4. <a href="https://www.credly.com/badges/fff121e3-2158-4d11-bee4-7563344c9599">CKA: Certified Kubernetes Administrator</a>
 5. <a href="https://www.credly.com/badges/d257f0c3-d1c0-4bf3-be03-f49e32715e58">KCNA: Kubernetes and Cloud Native Associate</a>
