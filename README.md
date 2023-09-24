@@ -15,11 +15,36 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" src="https://github.com/harshagv/harshagv/blob/master/src/imgs/gvh.jpg" width="303" height="659" alt="banner that says Mr.Harsha - a cloud devops engineer, alongside a cartoon illustration of Mr.Harsha" style="float:left;">   
+<img align="right" src="https://github.com/harshagv/harshagv/blob/master/src/imgs/gvh.jpg" width="303" height="659" alt="banner that says Mr.Harsha - a cybersecurity and devsecops engineer, alongside a cartoon illustration of Mr.Harsha" style="float:left;">
 
-<p align="left">I am a ☁️ Cloud DevSecOps engineer, passionate about development, designing and automating the process of software delivery and deployments on the cloud, and building community, and keeping our org safe and secure. Some technologies I enjoy working with includes DevSecOps tools chain, cloud migration, <a href="https://aws.amazon.com/">Amazon Web Services</a>, <a href="https://azure.microsoft.com/en-us/">Microsoft Azure</a>, <a href="https://kubernetes.io/">Kubernetes</a>, <a href="https://www.docker.com/">Docker</a>, <a href="https://github.com/GoogleContainerTools">GoogleContainerTools</a>, <a href="https://prometheus.io/">Prometheus</a>, <a href="https://grafana.com/">Grafana</a>, <a href="https://www.elastic.co/what-is/elk-stack">ELK Stack</a>, <a href="https://www.datadoghq.com/product/">Datadog</a>, <a href="https://grafana.com/oss/loki/">Loki</a>, <a href="https://www.ansible.com/overview/it-automation">Ansible</a>, <a href="https://argo-cd.readthedocs.io/en/stable/">GitOps tool 一 ArgoCD</a>, <a href="https://spinnaker.io/">Spinnaker</a>, <a href="https://travis-ci.org/">travis-ci</a>, <a href="https://circleci.com/">circleci</a>, <a href="https://www.jenkins.io/">jenkins</a>, <a href="https://www.terraform.io/">Terraform</a>. 
-  
-My interest in the cloud services ecosystem, kubernetes and cybersecurity led me to earn these certificates from `AWS` and `Linux Foundation`:
+<p align="left">I am a Cybersecurity and ☁️♾️ Cloud DevSecOps engineer, passionate about development, designing, and automating the process of application security, delivery and deployments on the cloud, and building community, and keeping our organization safe, sound, and secure. Some technologies I enjoy working with include 
+
+  ➼ Cybersecurity Engineering  
+  ➼ Application Security  
+  ➼ DevSecOps tools chain  
+  ➼ Cloud migration
+
+with hands on experience in: 
+<a href="https://aws.amazon.com/">Amazon Web Services</a>, 
+<a href="https://azure.microsoft.com/en-us/">Microsoft Azure</a>, 
+<a href="https://kubernetes.io/">Kubernetes</a>, 
+<a href="https://www.docker.com/">Docker</a>, 
+<a href="https://github.com/GoogleContainerTools">GoogleContainerTools</a>, 
+<a href="https://prometheus.io/">Prometheus</a>, 
+<a href="https://grafana.com/">Grafana</a>, 
+<a href="https://www.elastic.co/what-is/elk-stack">ELK Stack</a>, 
+<a href="https://www.datadoghq.com/product/">Datadog</a>, 
+<a href="https://grafana.com/oss/loki/">Loki</a>, 
+<a href="https://www.ansible.com/overview/it-automation">Ansible</a>, 
+<a href="https://argo-cd.readthedocs.io/en/stable/">GitOps tool 一 ArgoCD</a>, 
+<a href="https://spinnaker.io/">Spinnaker</a>, 
+<a href="https://travis-ci.org/">travis-ci</a>, 
+<a href="https://circleci.com/">circleci</a>, 
+<a href="https://www.jenkins.io/">jenkins</a>, 
+<a href="https://www.terraform.io/">Terraform</a>
+
+
+My interest in the cloud services ecosystem, kubernetes and cybersecurity led me to obtain these certificates:
 1. <a href="https://www.credly.com/badges/70f4c532-01b6-41fc-85cd-05be931b6d67">AWS Certified Solution Architect - Professional</a>
 2. <a href="https://www.credly.com/badges/238268f2-9296-4d38-9a97-cf2c8c87cec6">AWS Certified DevOps Engineer - Professional</a>
 3. <a href="https://www.credly.com/badges/caa35793-d064-49be-8509-94685b90b26e">AWS Certified Security – Specialty</a>
@@ -28,19 +53,6 @@ My interest in the cloud services ecosystem, kubernetes and cybersecurity led me
 6. <a href="https://www.credly.com/badges/d257f0c3-d1c0-4bf3-be03-f49e32715e58">KCNA: Kubernetes and Cloud Native Associate</a>
 7. Scrum Alliance certified <a href="https://badgecert.com/bc/html/profile.jsp?k=fdoihhc">Scrum Master</a> and <a href="https://badgecert.com/bc/html/profile.jsp?k=xyhdzjz">Product Owner</a>.</p>
 
-<br/>
-<br/>
-☀️
-⚡ 
-🌈 
-🛸
-🌟
-🌞
-⭐️
-💯
-💡
-<br/>
-<br/>
 <br/>
 
 ## Interests:
