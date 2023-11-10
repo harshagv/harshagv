@@ -44,7 +44,7 @@ with hands on experience in:
 <a href="https://www.terraform.io/">Terraform</a>
 
 
-My interest in the cloud services ecosystem, kubernetes and cybersecurity led me to obtain these certificates:
+My interest in the cybersecurity, cloud services ecosystem, and kubernetes led me to obtain below listed certificates:
 1. <a href="https://www.credly.com/badges/70f4c532-01b6-41fc-85cd-05be931b6d67">AWS Certified Solution Architect - Professional</a>
 2. <a href="https://www.credly.com/badges/238268f2-9296-4d38-9a97-cf2c8c87cec6">AWS Certified DevOps Engineer - Professional</a>
 3. <a href="https://www.credly.com/badges/caa35793-d064-49be-8509-94685b90b26e">AWS Certified Security – Specialty</a>
