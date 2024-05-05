@@ -24,7 +24,12 @@ Here are some ideas to get you started:
   ➼ DevSecOps tools chain  
   ➼ Cloud migration
 
-with hands on experience in: 
+with hands on experience in:
+<a href="https://www.cloudflare.com/">Cloudflare</a>,
+<a href="https://www.sentinelone.com/">SentinelOne</a>,
+<a href="https://goteleport.com/">Teleport</a>,
+<a href="https://snyk.io/">Snyk</a>,
+<a href="https://duo.com/product/multi-factor-authentication-mfa/two-factor-authentication-2fa">Duo Security</a>,
 <a href="https://aws.amazon.com/">Amazon Web Services</a>, 
 <a href="https://azure.microsoft.com/en-us/">Microsoft Azure</a>, 
 <a href="https://kubernetes.io/">Kubernetes</a>, 
@@ -45,13 +50,14 @@ with hands on experience in:
 
 
 My interest in the cybersecurity, cloud services ecosystem, and kubernetes led me to obtain below listed certificates:
-1. <a href="https://www.credly.com/badges/70f4c532-01b6-41fc-85cd-05be931b6d67">AWS Certified Solution Architect - Professional</a>
-2. <a href="https://www.credly.com/badges/238268f2-9296-4d38-9a97-cf2c8c87cec6">AWS Certified DevOps Engineer - Professional</a>
-3. <a href="https://www.credly.com/badges/caa35793-d064-49be-8509-94685b90b26e">AWS Certified Security – Specialty</a>
-4. <a href="https://www.credly.com/badges/f4ff4177-1d50-4ba3-9387-c2c193ea1033">CKS: Certified Kubernetes Security Specialist</a>
-5. <a href="https://www.credly.com/badges/fff121e3-2158-4d11-bee4-7563344c9599">CKA: Certified Kubernetes Administrator</a>
-6. <a href="https://www.credly.com/badges/d257f0c3-d1c0-4bf3-be03-f49e32715e58">KCNA: Kubernetes and Cloud Native Associate</a>
-7. Scrum Alliance certified <a href="https://badgecert.com/bc/html/profile.jsp?k=fdoihhc">Scrum Master</a> and <a href="https://badgecert.com/bc/html/profile.jsp?k=xyhdzjz">Product Owner</a>.</p>
+1. <a href="https://www.credly.com/badges/c74071e9-8c82-41f9-97fc-4f0809057d9b">ISC² Certified in Cybersecurity (CC)</a>
+2. <a href="https://www.credly.com/badges/caa35793-d064-49be-8509-94685b90b26e">AWS Certified Security – Specialty</a>
+3. <a href="https://www.credly.com/badges/70f4c532-01b6-41fc-85cd-05be931b6d67">AWS Certified Solution Architect - Professional</a>
+4. <a href="https://www.credly.com/badges/238268f2-9296-4d38-9a97-cf2c8c87cec6">AWS Certified DevOps Engineer - Professional</a>
+5. <a href="https://www.credly.com/badges/f4ff4177-1d50-4ba3-9387-c2c193ea1033">CKS: Certified Kubernetes Security Specialist</a>
+6. <a href="https://www.credly.com/badges/fff121e3-2158-4d11-bee4-7563344c9599">CKA: Certified Kubernetes Administrator</a>
+7. <a href="https://www.credly.com/badges/d257f0c3-d1c0-4bf3-be03-f49e32715e58">KCNA: Kubernetes and Cloud Native Associate</a>
+8. Scrum Alliance certified <a href="https://badgecert.com/bc/html/profile.jsp?k=fdoihhc">Scrum Master</a> and <a href="https://badgecert.com/bc/html/profile.jsp?k=xyhdzjz">Product Owner</a>.</p>
 
 <br/>
 
