@@ -120,15 +120,10 @@ My interest in the cybersecurity, cloud services ecosystem, and kubernetes led m
 <br/>
 
 
-## Star History
-[![Star History Chart](https://api.star-history.com/svg?repos=harshagv/harshagv&type=Date)](https://star-history.com/#harshagv/harshagv&Date)
-
-<br/>
-<br/>
 
 ## My Github Stats 👨🏾‍💻:
 
-<img align="right" src="https://github.com/harshagv/harshagv/blob/master/src/imgs/aws-banner-rotated.gif" width="303" height="506" alt="aws cloud banner that says Mr.Harsha - a cloud enthusiast">
+<img align="right" src="https://github.com/harshagv/harshagv/blob/master/src/imgs/aws-banner-rotated.gif" width="503" height="506" alt="aws cloud banner that says Mr.Harsha - a cloud enthusiast">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshagv&langs_count=9&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats) [![Github Stats By Harsha](https://github-readme-stats.vercel.app/api?username=harshagv&show_icons=true&theme=cobalt&line_height=41&hide_title=true&hide=["stars","prs"])](https://github.com/anuraghazra/github-readme-stats) 
 
@@ -136,4 +131,13 @@ My interest in the cybersecurity, cloud services ecosystem, and kubernetes led m
 
 🔵🟣☀
 
-<h1></h1>
+
+***
+
+_________________
+
+## Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=harshagv/harshagv&type=Date)](https://star-history.com/#harshagv/harshagv&Date)
+
+<br/>
+<br/>
