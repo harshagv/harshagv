@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 <img align="right" src="https://github.com/harshagv/harshagv/blob/master/src/imgs/gvh.jpg" width="303" height="659" alt="banner that says Mr.Harsha - a cybersecurity and devsecops engineer, alongside a cartoon illustration of Mr.Harsha" style="float:left;">
+-->
 
 <p align="left">I am a Cybersecurity and ☁️♾️ Cloud DevSecOps engineer, passionate about development, designing, and automating the process of application security, delivery and deployments on the cloud, and building community, and keeping our organization safe, sound, and secure. Some technologies I enjoy working with include 
 
