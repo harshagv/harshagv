@@ -1,6 +1,7 @@
-# ☁️ Hello! I am [Harsha!](https://harshagv.wixsite.com/myinfo) 👋👨‍💻🛡️🥇<img src="https://github.com/sumanentc/sumanentc/blob/master/assets/Earth.gif" width="29">🌟☁️🏆 
+# ☁️ Hello! I am [Harsha!](https://harshagv.wixsite.com/myinfo) 👋👨‍💻🛡️🥇<img src="https://github.com/harshagv/harshagv/blob/master/src/imgs/earth.gif" width="33">🌟☁️🏆<img src="https://github.com/harshagv/harshagv/blob/master/src/imgs/mona.gif" width="33"> 
 
-<!-- <img src="https://github.com/sumanentc/sumanentc/blob/master/assets/minion.gif" width="300"> -->
+<!-- <img src="https://github.com/harshagv/harshagv/blob/master/src/imgs/minion.gif" width="29"> -->
+<!-- <img src="https://github.githubassets.com/assets/mona-loading-default-c3c7aad1282f.gif" width="29"> -->
 
 <!--
 **harshagv/harshagv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,13 +23,14 @@ Here are some ideas to get you started:
 <p align="left">I am a Cybersecurity and ☁️♾️ Cloud DevSecOps engineer, passionate about development, designing, and automating the process of application security, delivery and deployments on the cloud, and building community, and keeping our organization safe, sound, and secure. Some technologies I enjoy working with include 
 
   ➼ Cybersecurity Engineering  
+  ➼ Cloud Security  
   ➼ Application Security  
-  ➼ DevSecOps tools chain  
-  ➼ Cloud migration
+  ➼ DevSecOps tools chain
 
 with hands on experience in:
 <a href="https://www.cloudflare.com/">Cloudflare</a>,
 <a href="https://www.sentinelone.com/">SentinelOne</a>,
+<a href="https://wazuh.com/platform/xdr/">Wazuh XDR</a>,
 <a href="https://goteleport.com/">Teleport</a>,
 <a href="https://snyk.io/">Snyk</a>,
 <a href="https://duo.com/product/multi-factor-authentication-mfa/two-factor-authentication-2fa">Duo Security</a>,
