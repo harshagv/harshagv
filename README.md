@@ -1,4 +1,4 @@
-# ☁️ Hello! I am [Harsha!](https://harshagv.wixsite.com/myinfo) 👋👨‍💻🛡️🥇<img src="https://github.com/harshagv/harshagv/blob/master/src/imgs/earth.gif" width="33">🌟☁️🏆<img src="https://github.com/harshagv/harshagv/blob/master/src/imgs/mona.gif" width="33"> 
+# ☁️ Hello! I am [Harsha!](https://harshagv.wixsite.com/myinfo) 👋👨‍💻🛡️🥇<img src="https://github.com/harshagv/harshagv/blob/master/src/imgs/earth.gif" width="29">🌟☁️🏆<img src="https://github.com/harshagv/harshagv/blob/master/src/imgs/mona.gif" width="29"> 
 
 <!-- <img src="https://github.com/harshagv/harshagv/blob/master/src/imgs/minion.gif" width="29"> -->
 <!-- <img src="https://github.githubassets.com/assets/mona-loading-default-c3c7aad1282f.gif" width="29"> -->
