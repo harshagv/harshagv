@@ -156,49 +156,48 @@ My interest in the cybersecurity, cloud services ecosystem, and kubernetes led m
 🏊‍♂️
 🏋️‍♂️
 🌄🏃‍♂️
-🌎
 ✈️
+<img src="https://github.com/harshagv/harshagv/blob/master/src/imgs/earth.gif" width="19">
 🚀
-🎯
 👨‍💻
-🎲
-🥇
+🎯
 🖥️
-<br/>
-<br/>
+<!--
+<img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/svg/awwesome.svg" width="29">
+-->
 <br/>
 <br/>
 
-## Find me around the web 🌎💬:
+## Find me around the web <img src="https://github.com/harshagv/harshagv/blob/master/src/imgs/earth.gif" width="19">:
+<a href="https://community.aws/@harshagv">
+  <img align="left" alt="Harsha G V | Twitter" width="29px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/svg/aws.svg" />
+</a>
 <a href="https://www.credly.com/users/harshagv/badges">
-  <img align="left" alt="Harsha G V | Credly" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/credly.svg" />
+  <img align="left" alt="Harsha G V | Credly" width="29px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/credly.svg" />
 </a>
 <a href="https://harshagv.wixsite.com/myinfo">
-  <img align="left" alt="Harsha G V | MyInfo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/wix.svg" />
+  <img align="left" alt="Harsha G V | MyInfo" width="29px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/wix.svg" />
 </a>
 <a href="https://twitter.com/harsha_gv">
-  <img align="left" alt="Harsha G V | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/twitter.svg" />
+  <img align="left" alt="Harsha G V | Twitter" width="29px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/harshagv/">
-  <img align="left" alt="Harsha G V | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" />
-</a>
-<a href="https://t.me/harsha_gv">
-  <img align="left" alt="Harsha G V | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/telegram.svg" />
+  <img align="left" alt="Harsha G V | Linkedin" width="29px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" />
 </a>
 <a href="https://www.twitch.tv/harshagv">
-  <img align="left" alt="Harsha G V | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/twitch.svg" />
+  <img align="left" alt="Harsha G V | Twitch" width="29px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/twitch.svg" />
 </a>
 <a href="https://leetcode.com/harsha_gv/">
-  <img align="left" alt="Harsha G V | Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/leetcode.svg" />
+  <img align="left" alt="Harsha G V | Leetcode" width="29px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/leetcode.svg" />
 </a>
 <a href="https://stackoverflow.com/users/10053482/harsha-g-v">
-  <img align="left" alt="Harsha G V | Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/stackoverflow.svg" />
+  <img align="left" alt="Harsha G V | Stackoverflow" width="29px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/stackoverflow.svg" />
 </a>
 <a href="https://join.skype.com/invite/GIgzT5tdn8GY">
-  <img align="left" alt="Harsha G V | Skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/skype.svg" />
+  <img align="left" alt="Harsha G V | Skype" width="29px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/skype.svg" />
 </a>
-<a href="https://medium.com/@harsha.gv">
-  <img align="left" alt="Harsha G V | Skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" />
+<a href="https://medium.com/@harshagv">
+  <img align="left" alt="Harsha G V | Skype" width="29px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" />
 </a>
 
 <br/>
@@ -223,7 +222,7 @@ My interest in the cybersecurity, cloud services ecosystem, and kubernetes led m
 <br/>
 
 ## Star History
-[![Star History Chart](https://api.star-history.com/svg?repos=harshagv/harshagv&type=Date)](https://star-history.com/#harshagv/harshagv&Date)
+![Star History Chart](https://api.star-history.com/svg?repos=harshagv/harshagv&type=Timeline)
 
 <br/>
 <br/>
