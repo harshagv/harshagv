@@ -173,7 +173,7 @@ My interest in the cybersecurity, cloud services ecosystem, and kubernetes led m
   <img align="left" alt="Harsha G V | Twitter" width="29px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/svg/aws.svg" />
 </a>
 <a href="https://www.credly.com/users/harshagv/badges">
-  <img align="left" alt="Harsha G V | Credly" width="29px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/credly.svg" />
+  <img align="left" alt="Harsha G V | Credly" width="33px" src="https://github.com/harshagv/harshagv/blob/master/src/imgs/credly.jpg" />
 </a>
 <a href="https://harshagv.wixsite.com/myinfo">
   <img align="left" alt="Harsha G V | MyInfo" width="29px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/wix.svg" />
