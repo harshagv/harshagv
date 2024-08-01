@@ -1,4 +1,4 @@
-# ☁️ Hello! I am [Harsha!](https://harshagv.wixsite.com/myinfo) 👋👨‍💻🛡️🥇<img src="https://github.com/harshagv/harshagv/blob/master/src/imgs/earth.gif" width="29">🌟☁️🏆<img src="https://github.com/harshagv/harshagv/blob/master/src/imgs/mona.gif" width="29"> 
+# Hello!<img src="https://github.com/harshagv/harshagv/blob/master/src/imgs/mona.gif" width="29"> I am [Harsha!](https://harshagv.me) 🥇👨‍💻☁️🛡️<img src="https://github.com/harshagv/harshagv/blob/master/src/imgs/earth.gif" width="29">
 
 <!-- <img src="https://github.com/harshagv/harshagv/blob/master/src/imgs/minion.gif" width="29"> -->
 <!-- <img src="https://github.githubassets.com/assets/mona-loading-default-c3c7aad1282f.gif" width="29"> -->
@@ -175,7 +175,7 @@ My interest in the cybersecurity, cloud services ecosystem, and kubernetes led m
 <a href="https://www.credly.com/users/harshagv/badges">
   <img align="left" alt="Harsha G V | Credly" width="33px" src="https://github.com/harshagv/harshagv/blob/master/src/imgs/credly.jpg" />
 </a>
-<a href="https://harshagv.wixsite.com/myinfo">
+<a href="https://harshagv.me">
   <img align="left" alt="Harsha G V | MyInfo" width="29px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/wix.svg" />
 </a>
 <a href="https://twitter.com/harsha_gv">
@@ -217,16 +217,12 @@ My interest in the cybersecurity, cloud services ecosystem, and kubernetes led m
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harshagv&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshagv&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harshagv&theme=github_dark&utcOffset=8)
-
 <br/>
 <br/>
-
+<!--
 ## Star History
 ![Star History Chart](https://api.star-history.com/svg?repos=harshagv/harshagv&type=Timeline)
-
-<br/>
-<br/>
-
+-->
 ***
 _________________
 
