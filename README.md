@@ -22,7 +22,15 @@ Here are some ideas to get you started:
 <img align="right" src="https://github.com/harshagv/harshagv/blob/master/src/imgs/gvh.jpg" width="303" height="659" alt="banner that says Mr.Harsha - a cybersecurity and devsecops engineer, alongside a cartoon illustration of Mr.Harsha" style="float:left;">
 -->
 
-<p align="left">I am a Cybersecurity and ☁️♾️ Cloud DevSecOps engineer, passionate about development, designing, and automating the process of application security, delivery and deployments on the cloud, and building community, and keeping our organization safe, sound, and secure. Some technologies I enjoy working with include 
+<p align="left">
+  I am a  
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&color=%230B1E59&size=33&weight=666&width=920&height=50&duration=1500&pause=1000&lines=Cybersecurity+and+☁️♾️+Cloud+DevSecOps+Engineer" 
+    style="vertical-align: sub;" 
+    width="auto"
+    height="24"
+  />, passionate about development, designing, and automating the process of application security, delivery, and deployments on the cloud, and building community, and keeping our organization safe, sound, and secure. I enjoy working with technologies such as:
+</p>
 
   ➼ Cybersecurity Engineering  
   ➼ Cloud Security  
@@ -204,7 +212,7 @@ My interest in the cybersecurity, cloud services ecosystem, and kubernetes led m
 <br/>
 <br/>
 
-## My Github Stats 👨🏾‍💻:
+## My GitHub Stats 👨🏾‍💻:
 
 <!--
 <img align="right" src="https://github.com/harshagv/harshagv/blob/master/src/imgs/aws-banner-rotated.gif" width="503" height="506" alt="aws cloud banner that says Mr.Harsha - a cloud enthusiast"> 
@@ -219,15 +227,37 @@ My interest in the cybersecurity, cloud services ecosystem, and kubernetes led m
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harshagv&theme=github_dark&utcOffset=8)
 <br/>
 <br/>
+
 <!--
 ## Star History
 ![Star History Chart](https://api.star-history.com/svg?repos=harshagv/harshagv&type=Timeline)
+
+  <img height="180em" src="https://streak-stats.demolab.com?user=harshagv&theme=vue-dark&fire=008AE6&ring=38678F" class="center"/>
+  <br>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=harshagv&theme=vue&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=harshagv&theme=vue&layout=compact" />
+
+  <td>𝚟𝚒𝚜𝚒𝚝𝚘𝚛 count</td>
+  <td><img src="https://profile-counter.glitch.me/harshagv/count.svg" alt="" /></td>
 -->
+
+
+
+<p align="center"> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,6,8,9,10,22,24,25,30&height=100&section=footer"/>         
+</p>
+
+
+
+<!--
+
+# Horizontal Lines 
 ***
 _________________
 
-<!--
-![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+)`#1589F0`
 
+![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+)`#1589F0`
 🔵🟣☀
 -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
