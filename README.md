@@ -220,11 +220,12 @@ My interest in the cybersecurity, cloud services ecosystem, and kubernetes led m
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshagv&langs_count=9&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats) [![Github Stats By Harsha](https://github-readme-stats.vercel.app/api?username=harshagv&show_icons=true&theme=cobalt&line_height=41&hide_title=true&hide=["stars","prs"])](https://github.com/anuraghazra/github-readme-stats) 
 -->
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshagv&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshagv&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harshagv&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshagv&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harshagv&theme=github_dark&utcOffset=8)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshagv&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshagv&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harshagv&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshagv&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harshagv&theme=github_dark&utcOffset=8)
+
 <br/>
 <br/>
 
@@ -242,16 +243,15 @@ My interest in the cybersecurity, cloud services ecosystem, and kubernetes led m
 -->
 
 
-
 <p align="center"> 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,6,8,9,10,22,24,25,30&height=100&section=footer"/>         
 </p>
 
 
-
 <!--
 
-# Horizontal Lines 
+# Horizontal Lines
+
 ***
 _________________
 
@@ -260,4 +260,3 @@ _________________
 🔵🟣☀
 -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
