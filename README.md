@@ -37,7 +37,7 @@ Here are some ideas to get you started:
   ➼ Application Security  
   ➼ DevSecOps tools chain
 
-with hands on experience in:
+with hands-on experience in:
 <a href="https://www.cloudflare.com/">Cloudflare</a>,
 <a href="https://www.sentinelone.com/">SentinelOne</a>,
 <a href="https://wazuh.com/platform/xdr/">Wazuh XDR</a>,
