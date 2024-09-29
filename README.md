@@ -28,8 +28,8 @@ Here are some ideas to get you started:
     src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&color=%230B1E59&size=33&weight=666&width=920&height=50&duration=1500&pause=1000&lines=Cybersecurity+and+☁️♾️+Cloud+DevSecOps+Engineer" 
     style="vertical-align: sub;" 
     width="auto"
-    height="24"
-  />, passionate about development, designing, and automating the process of application security, delivery, and deployments on the cloud, and building community, and keeping our organization safe, sound, and secure. I enjoy working with technologies such as:
+    height="23"
+  />, passionate about development, designing, and automating the application and cloud security process, incident response via cloud security posture management, building security community, and keeping our organization safe, sound, and secure. I enjoy working with technologies such as:
 </p>
 
   ➼ Cybersecurity Engineering  
@@ -75,7 +75,7 @@ with hands-on experience in:
  
  #### Containerization and Orchestration
  
-  <p float="left">
+ <p float="left">
    <code><img width="15%" height="75" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
    <code><img width="15%" height="75" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
  </p>
@@ -83,7 +83,7 @@ with hands-on experience in:
  
   #### Service Mesh
  
-  <p float="left">
+ <p float="left">
    <code><img width="15%" height="75" src="https://www.vectorlogo.zone/logos/linkerdio/linkerdio-ar21.svg"></code>
    <code><img width="15%" height="75" src="https://www.vectorlogo.zone/logos/istioio/istioio-ar21.svg"></code>
  </p>
@@ -91,10 +91,9 @@ with hands-on experience in:
  
  #### HashiCorp Stack 
  
-  <p float="left">
+ <p float="left">
    <code><img width="15%" height="75" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"></code>
    <code><img width="15%" height="75" src="https://www.vectorlogo.zone/logos/vaultproject/vaultproject-ar21.svg"></code>
-   <code><img width="15%" height="75" src="https://www.vectorlogo.zone/logos/consulio/consulio-ar21.svg"></code>
  </p>
  
  #### GitOps 
@@ -106,7 +105,7 @@ with hands-on experience in:
  
   #### Monitoring 
    
-  <p float="left">
+ <p float="left">
    <code><img width="15%" height="75" src="https://raw.githubusercontent.com/cncf/artwork/master/projects/thanos/icon/color/thanos-icon-color.svg"></code>
    <code><img width="15%" height="75" src="https://www.vectorlogo.zone/logos/grafana/grafana-ar21.svg"></code>
    <code><img width="15%" height="75" src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg"></code>
@@ -117,37 +116,35 @@ with hands-on experience in:
  
  #### Package Managers 
  
-   <p float="left">
+ <p float="left">
    <code><img width="15%" height="75" src="https://www.vectorlogo.zone/logos/helmsh/helmsh-ar21.svg"></code>
  </p>
  
 #### CI/CD
 
-   <p float="left">
+ <p float="left">
    <code><img width="15%" height="75" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></code>
    <code><img width="15%" height="75" src="https://github.com/cncf/landscape/blob/master/hosted_logos/spinnaker.svg"></code>
  </p>
  
- #### Configuration Management 
+ #### Configuration Management
  
-   <p float="left">
+ <p float="left">
    <code><img width="15%" height="75" src="https://www.vectorlogo.zone/logos/chefio/chefio-ar21.svg"></code>
    <code><img width="15%" height="75" src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg"></code>
  </p>
 
-
-
-#### 👩‍💻Programming Languages
-<p align="left">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="bash" width="90" height="90"/> 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" alt="go" width="90" height="90"/>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" width="90" height="90"/> 
-<img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/opa/icon/color/opa-icon-color.svg" alt="opa" width="100" height="100"/> 
-</p>
+ #### 👨‍💻Programming Languages
+ <p align="left">
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="bash" width="90" height="90"/> 
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" alt="go" width="90" height="90"/>
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" width="90" height="90"/> 
+    <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/opa/icon/color/opa-icon-color.svg" alt="opa" width="100" height="100"/> 
+ </p>
 -->
 
 
-My interest in the cybersecurity, cloud services ecosystem, and kubernetes led me to obtain below listed certificates:
+My interest in cybersecurity, cloud services ecosystem, and kubernetes led me to obtain the following listed certificates:
 1. <a href="https://www.credly.com/badges/c74071e9-8c82-41f9-97fc-4f0809057d9b">ISC² Certified in Cybersecurity (CC)</a>
 2. <a href="https://www.credly.com/badges/caa35793-d064-49be-8509-94685b90b26e">AWS Certified Security – Specialty</a>
 3. <a href="https://www.credly.com/badges/70f4c532-01b6-41fc-85cd-05be931b6d67">AWS Certified Solution Architect - Professional</a>
@@ -221,6 +218,7 @@ My interest in the cybersecurity, cloud services ecosystem, and kubernetes led m
 -->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshagv&theme=github_dark)
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshagv&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harshagv&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshagv&theme=github_dark)
