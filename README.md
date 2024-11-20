@@ -2,6 +2,7 @@
 
 <!-- <img src="https://github.com/harshagv/harshagv/blob/master/src/imgs/minion.gif" width="29"> -->
 <!-- <img src="https://github.githubassets.com/assets/mona-loading-default-c3c7aad1282f.gif" width="29"> -->
+<!-- https://devicon.dev/ -->
 
 <!--
 **harshagv/harshagv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,7 +26,7 @@ Here are some ideas to get you started:
 <p align="left">
   I am a  
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&color=%230B1E59&size=33&weight=666&width=920&height=50&duration=1500&pause=1000&lines=Cybersecurity+and+☁️♾️+Cloud+DevSecOps+Engineer" 
+    src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&color=%230B1E59&size=32&weight=666&width=920&height=50&duration=1500&pause=1000&lines=Cybersecurity+and+☁️♾️+Cloud+DevSecOps+Engineer" 
     style="vertical-align: sub;" 
     width="auto"
     height="23"
