@@ -9,7 +9,7 @@
     style="vertical-align: sub;"
     width="auto"
     height="23"
-  />, with 11+ years of battle-tested experience in the digital trenches of FinTech and banking. I'm hardwired for safeguarding cloud environments and enhancing security posture, from proactive Cloud Security Posture Management (CSPM) and rapid incident response to building strong security communities. My ultimate mission: to fortify organizations and ensure their digital resilience in an ever-evolving threat landscape. I thrive on leveraging cutting-edge technologies and methodologies across::
+  />, with 11+ years of battle-tested experience in the digital trenches of FinTech and banking. I'm hardwired for safeguarding cloud environments and enhancing security posture, from proactive Cloud Security Posture Management (CSPM) and rapid incident response to building strong security communities. My ultimate mission: to fortify organizations and ensure their digital resilience in an ever-evolving threat landscape. I thrive on leveraging cutting-edge technologies and methodologies across:
 </p>
 
   ➼ Cybersecurity Engineering<br/>
@@ -39,6 +39,28 @@
     <a href="https://www.elastic.co/what-is/elk-stack" target="_blank"><img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" /></a>
     <a href="https://www.splunk.com/" target="_blank"><img src="https://img.shields.io/badge/Splunk-EE1D62?style=for-the-badge&logo=splunk&logoColor=white" /></a>
 </p>
+
+<!-- <p align="center">
+    <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/Amazon_AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=39FF14" /></a>
+    <a href="https://azure.microsoft.com/en-us/" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Azure-000000?style=for-the-badge&logo=microsoft-azure&logoColor=39FF14" /></a>
+    <a href="https://kubernetes.io/" target="_blank"><img src="https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=39FF14" /></a>
+    <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=39FF14" /></a>
+    <a href="https://podman.io/" target="_blank"><img src="https://img.shields.io/badge/Podman-000000?style=for-the-badge&logo=podman&logoColor=39FF14" /></a>
+    <a href="https://sysdig.com/" target="_blank"><img src="https://img.shields.io/badge/Sysdig_Falco-000000?style=for-the-badge&logo=sysdig&logoColor=39FF14" /></a>
+    <a href="https://www.terraform.io/" target="_blank"><img src="https://img.shields.io/badge/Terraform-000000?style=for-the-badge&logo=terraform&logoColor=39FF14" /></a>
+    <a href="https://www.ansible.com/overview/it-automation" target="_blank"><img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=39FF14" /></a>
+    <a href="https://www.cloudflare.com/" target="_blank"><img src="https://img.shields.io/badge/Cloudflare-000000?style=for-the-badge&logo=cloudflare&logoColor=39FF14" /></a>
+    <a href="https://snyk.io/" target="_blank"><img src="https://img.shields.io/badge/Snyk-000000?style=for-the-badge&logo=snyk&logoColor=39FF14" /></a>
+    <a href="https://prometheus.io/" target="_blank"><img src="https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&logoColor=39FF14" /></a>
+    <a href="https://grafana.com/" target="_blank"><img src="https://img.shields.io/badge/Grafana-000000?style=for-the-badge&logo=grafana&logoColor=39FF14" /></a>
+    <a href="https://www.sentinelone.com/" target="_blank"><img src="https://img.shields.io/badge/SentinelOne-000000?style=for-the-badge&logo=sentinelone&logoColor=39FF14" /></a>
+    <a href="https://www.openvas.org/" target="_blank"><img src="https://img.shields.io/badge/OpenVAS-000000?style=for-the-badge&logo=openvas&logoColor=39FF14" /></a>
+    <a href="https://www.stackrox.io/" target="_blank"><img src="https://img.shields.io/badge/StackRox-000000?style=for-the-badge&logo=stackrox&logoColor=39FF14" /></a>
+    <a href="https://www.virtualbox.org/" target="_blank"><img src="https://img.shields.io/badge/VirtualBox-000000?style=for-the-badge&logo=virtualbox&logoColor=39FF14" /></a>
+    <a href="https://www.datadoghq.com/" target="_blank"><img src="https://img.shields.io/badge/Datadog-000000?style=for-the-badge&logo=datadog&logoColor=39FF14" /></a>
+    <a href="https://www.elastic.co/what-is/elk-stack" target="_blank"><img src="https://img.shields.io/badge/ELK_Stack-000000?style=for-the-badge&logo=elasticsearch&logoColor=39FF14" /></a>
+    <a href="https://www.splunk.com/" target="_blank"><img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=39FF14" /></a>
+</p> -->
 
 My interest in cybersecurity, cloud services ecosystem, and kubernetes led me to obtain the following listed certificates:
 1. <a href="https://www.credly.com/badges/c74071e9-8c82-41f9-97fc-4f0809057d9b">ISC² Certified in Cybersecurity (CC)</a>
