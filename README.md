@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F0F0FF&height=150&section=header&text=&fontSize=90&fontColor=39FF14"/>
-</p>
+<!-- <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=F0F0FF&height=150&section=header&text=&fontSize=90&fontColor=39FF14"/> </p> -->
 
 # Hello!<img src="https://github.com/harshagv/harshagv/blob/master/src/imgs/mona.gif" width="29"> I am [Harsha!](https://harshagv.me) 🥇👨‍💻☁️🛡️<img src="https://github.com/harshagv/harshagv/blob/master/src/imgs/earth.gif" width="29">
 
