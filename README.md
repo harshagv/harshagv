@@ -19,17 +19,25 @@
 
 ### Hands-on experience in:
 <p align="center">
-    <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /></a>
+    <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/Amazon_AWS-EC7211?style=for-the-badge&logo=amazon-aws&logoColor=white" /></a>
     <a href="https://azure.microsoft.com/en-us/" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" /></a>
     <a href="https://kubernetes.io/" target="_blank"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /></a>
     <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
+    <a href="https://podman.io/" target="_blank"><img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white" /></a>
+    <a href="https://sysdig.com/" target="_blank"><img src="https://img.shields.io/badge/Sysdig_Falco-BDF78B?style=for-the-badge&logo=sysdig&logoColor=white" /></a>
     <a href="https://www.terraform.io/" target="_blank"><img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" /></a>
     <a href="https://www.ansible.com/overview/it-automation" target="_blank"><img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" /></a>
     <a href="https://www.cloudflare.com/" target="_blank"><img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" /></a>
-    <a href="https://snyk.io/" target="_blank"><img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white" /></a>
+    <a href="https://snyk.io/" target="_blank"><img src="https://img.shields.io/badge/Snyk-383F76?style=for-the-badge&logo=snyk&logoColor=white" /></a>
     <a href="https://prometheus.io/" target="_blank"><img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" /></a>
     <a href="https://grafana.com/" target="_blank"><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" /></a>
+    <a href="https://www.sentinelone.com/" target="_blank"><img src="https://img.shields.io/badge/SentinelOne-6100FF?style=for-the-badge&logo=sentinelone&logoColor=white" /></a>
+    <a href="https://www.openvas.org/" target="_blank"><img src="https://img.shields.io/badge/OpenVAS-1C7C54?style=for-the-badge&logo=openvas&logoColor=white" /></a>
+    <a href="https://www.stackrox.io/" target="_blank"><img src="https://img.shields.io/badge/StackRox-222222?style=for-the-badge&logo=stackrox&logoColor=white" /></a>
+    <a href="https://www.virtualbox.org/" target="_blank"><img src="https://img.shields.io/badge/VirtualBox-193D8E?style=for-the-badge&logo=virtualbox&logoColor=white" /></a>
+    <a href="https://www.datadoghq.com/" target="_blank"><img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" /></a>
     <a href="https://www.elastic.co/what-is/elk-stack" target="_blank"><img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" /></a>
+    <a href="https://www.splunk.com/" target="_blank"><img src="https://img.shields.io/badge/Splunk-EE1D62?style=for-the-badge&logo=splunk&logoColor=white" /></a>
 </p>
 
 My interest in cybersecurity, cloud services ecosystem, and kubernetes led me to obtain the following listed certificates:
