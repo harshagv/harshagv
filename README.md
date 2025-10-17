@@ -9,7 +9,7 @@
     style="vertical-align: sub;"
     width="auto"
     height="23"
-  />, with 11+ years of battle-tested experience in the digital trenches of FinTech and banking. I'm hardwired for safeguarding cloud environments and enhancing security posture, from proactive Cloud Security Posture Management (CSPM) and rapid incident response to building strong security communities. My ultimate mission: to fortify organizations and ensure their digital resilience in an ever-evolving threat landscape. I thrive on leveraging cutting-edge technologies and methodologies across:
+  />, with years of battle-tested experience in the digital trenches of FinTech and banking. I'm hardwired for safeguarding cloud environments and enhancing security posture, from proactive Cloud Security Posture Management (CSPM) and rapid incident response to building strong security communities. My ultimate mission: to fortify organizations and ensure their digital resilience in an ever-evolving threat landscape. I thrive on leveraging cutting-edge technologies and methodologies across:
 </p>
 
   ➼ Cybersecurity Engineering<br/>
