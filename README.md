@@ -40,28 +40,6 @@
     <a href="https://www.splunk.com/" target="_blank"><img src="https://img.shields.io/badge/Splunk-EE1D62?style=for-the-badge&logo=splunk&logoColor=white" /></a>
 </p>
 
-<!-- <p align="center">
-    <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/Amazon_AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=39FF14" /></a>
-    <a href="https://azure.microsoft.com/en-us/" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Azure-000000?style=for-the-badge&logo=microsoft-azure&logoColor=39FF14" /></a>
-    <a href="https://kubernetes.io/" target="_blank"><img src="https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=39FF14" /></a>
-    <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=39FF14" /></a>
-    <a href="https://podman.io/" target="_blank"><img src="https://img.shields.io/badge/Podman-000000?style=for-the-badge&logo=podman&logoColor=39FF14" /></a>
-    <a href="https://sysdig.com/" target="_blank"><img src="https://img.shields.io/badge/Sysdig_Falco-000000?style=for-the-badge&logo=sysdig&logoColor=39FF14" /></a>
-    <a href="https://www.terraform.io/" target="_blank"><img src="https://img.shields.io/badge/Terraform-000000?style=for-the-badge&logo=terraform&logoColor=39FF14" /></a>
-    <a href="https://www.ansible.com/overview/it-automation" target="_blank"><img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=39FF14" /></a>
-    <a href="https://www.cloudflare.com/" target="_blank"><img src="https://img.shields.io/badge/Cloudflare-000000?style=for-the-badge&logo=cloudflare&logoColor=39FF14" /></a>
-    <a href="https://snyk.io/" target="_blank"><img src="https://img.shields.io/badge/Snyk-000000?style=for-the-badge&logo=snyk&logoColor=39FF14" /></a>
-    <a href="https://prometheus.io/" target="_blank"><img src="https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&logoColor=39FF14" /></a>
-    <a href="https://grafana.com/" target="_blank"><img src="https://img.shields.io/badge/Grafana-000000?style=for-the-badge&logo=grafana&logoColor=39FF14" /></a>
-    <a href="https://www.sentinelone.com/" target="_blank"><img src="https://img.shields.io/badge/SentinelOne-000000?style=for-the-badge&logo=sentinelone&logoColor=39FF14" /></a>
-    <a href="https://www.openvas.org/" target="_blank"><img src="https://img.shields.io/badge/OpenVAS-000000?style=for-the-badge&logo=openvas&logoColor=39FF14" /></a>
-    <a href="https://www.stackrox.io/" target="_blank"><img src="https://img.shields.io/badge/StackRox-000000?style=for-the-badge&logo=stackrox&logoColor=39FF14" /></a>
-    <a href="https://www.virtualbox.org/" target="_blank"><img src="https://img.shields.io/badge/VirtualBox-000000?style=for-the-badge&logo=virtualbox&logoColor=39FF14" /></a>
-    <a href="https://www.datadoghq.com/" target="_blank"><img src="https://img.shields.io/badge/Datadog-000000?style=for-the-badge&logo=datadog&logoColor=39FF14" /></a>
-    <a href="https://www.elastic.co/what-is/elk-stack" target="_blank"><img src="https://img.shields.io/badge/ELK_Stack-000000?style=for-the-badge&logo=elasticsearch&logoColor=39FF14" /></a>
-    <a href="https://www.splunk.com/" target="_blank"><img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=39FF14" /></a>
-</p> -->
-
 My interest in cybersecurity, cloud services ecosystem, and kubernetes led me to obtain the following listed certificates:
 1. <a href="https://www.credly.com/badges/c74071e9-8c82-41f9-97fc-4f0809057d9b">ISC² Certified in Cybersecurity (CC)</a>
 2. <a href="https://www.credly.com/badges/caa35793-d064-49be-8509-94685b90b26e">AWS Certified Security – Specialty</a>
@@ -84,19 +62,6 @@ The path to bringing balance to the Cloud-verse requires constant evolution. My 
 <br/>
 
 ## Find me around the web <img src="https://github.com/harshagv/harshagv/blob/master/src/imgs/earth.gif" width="19">:
-<!-- <p align="center">
-  <a href="https://builder.aws.com/community/@harshagv"><img alt="Harsha G V | AWS" width="42px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/svg/aws.svg" /></a>&nbsp;&nbsp;
-  <a href="https://www.credly.com/users/harshagv/badges"><img alt="Harsha G V | Credly" width="42px" src="https://github.com/harshagv/harshagv/blob/master/src/imgs/credly-logo.png" /></a>&nbsp;&nbsp;
-  <a href="https://harshagv.me"><img alt="Harsha G V | MyInfo" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@11.4.0/icons/wix.svg" /></a>&nbsp;&nbsp;
-  <a href="https://x.com/harsha_gv"><img alt="Harsha G V | X" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@11.4.0/icons/x.svg" /></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/harshagv/"><img alt="Harsha G V | Linkedin" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@11.4.0/icons/linkedin.svg" /></a>&nbsp;&nbsp;
-  <a href="https://www.twitch.tv/harshagv"><img alt="Harsha G V | Twitch" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@11.4.0/icons/twitch.svg" /></a>&nbsp;&nbsp;
-  <a href="https://leetcode.com/harsha_gv/"><img alt="Harsha G V | Leetcode" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@11.4.0/icons/leetcode.svg" /></a>&nbsp;&nbsp;
-  <a href="https://stackoverflow.com/users/10053482/harsha-g-v"><img alt="Harsha G V | Stackoverflow" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@11.4.0/icons/stackoverflow.svg" /></a>&nbsp;&nbsp;
-  <a href="https://medium.com/@harshagv"><img alt="Harsha G V | Medium" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" /></a>
-</p>
-
-<br/> -->
 
 <p align="center">
   <a href="https://builder.aws.com/community/@harshagv" target="_blank"><img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/svg/aws.svg" alt="AWS Community" style="width:48px; height:48px; filter: grayscale(1) brightness(0) invert(1) sepia(1) saturate(10000%) hue-rotate(100deg);"></a>&nbsp;&nbsp;
@@ -111,33 +76,6 @@ The path to bringing balance to the Cloud-verse requires constant evolution. My 
 
 <br/>
 
-<!-- <p align="center">
-    <a href="https://builder.aws.com/community/@harshagv"><img alt="AWS Community" src="https://img.shields.io/badge/AWS_Community-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" /></a>
-    <a href="https://www.credly.com/users/harshagv/badges"><img alt="Credly" src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white"/></a>
-    <a href="https://harshagv.me"><img alt="My Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=wix&logoColor=white"/></a>
-    <a href="https://x.com/harsha_gv"><img alt="X/Twitter" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-    <a href="https://www.linkedin.com/in/harshagv/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="https://www.twitch.tv/harshagv"><img alt="Twitch" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/></a>
-    <a href="https://leetcode.com/harsha_gv/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-    <a href="https://stackoverflow.com/users/10053482/harsha-g-v"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
-    <a href="https://medium.com/@harshagv"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
-</p>
-
-<br/> -->
-
-<!-- <p align="center">
-    <a href="https://builder.aws.com/community/@harshagv"><img src="https://img.shields.io/badge/AWS_Community-000000?style=for-the-badge&logo=amazon-aws&logoColor=39FF14" /></a>
-    <a href="https://www.credly.com/users/harshagv/badges"><img src="https://img.shields.io/badge/Credly-000000?style=for-the-badge&logo=credly&logoColor=39FF14" /></a>
-    <a href="https://twitter.com/harsha_gv"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=39FF14" /></a>
-    <a href="https://www.linkedin.com/in/harshagv/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14" /></a>
-    <a href="https://leetcode.com/harsha_gv/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=39FF14" /></a>
-    <a href="https://stackoverflow.com/users/10053482/harsha-g-v"><img src="https://img.shields.io/badge/Stack_Overflow-000000?style=for-the-badge&logo=stack-overflow&logoColor=39FF14" /></a>
-    <a href="https://www.twitch.tv/harshagv"><img alt="Twitch" src="https://img.shields.io/badge/Twitch-000000?style=for-the-badge&logo=twitch&logoColor=39FF14"/></a>
-    <a href="https://medium.com/@harshagv"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=39FF14" /></a>
-</p>
-
-<br/> -->
-
 ## My GitHub Stats 👨🏾‍💻:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshagv&theme=github_dark&bg_color=000000&title_color=39FF14&text_color=39FF14&icon_color=39FF14)
@@ -149,14 +87,10 @@ The path to bringing balance to the Cloud-verse requires constant evolution. My 
 <br/>
 <br/>
 
-<!--
-# Horizontal Lines
-***
-_________________
-
-![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+)`#1589F0`
-🔵🟣☀
--->
+<div align="center">
+  <!-- Continuously running GIF without manual intervention -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Playing_T-Rex_Runner.gif" alt="T-Rex Chrome Dino Game" width="900" height="250" />
+</div>
 
 <!--Footer-->
 <p align="center"> 
