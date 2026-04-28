@@ -1,22 +1,22 @@
 <!-- <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=F0F0FF&height=150&section=header&text=&fontSize=90&fontColor=39FF14"/> </p> -->
 
 # Hello!<img src="https://github.com/harshagv/harshagv/blob/master/src/imgs/mona.gif" width="29"> I am [Harsha!](https://harshagv.me) 🥇👨‍💻☁️🛡️<img src="https://github.com/harshagv/harshagv/blob/master/src/imgs/earth.gif" width="29">
-
+<br/>
 <p align="left">
   I am a
   <img
-    src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&color=%2339FF14&size=32&weight=500&width=450&height=50&duration=1500&pause=1000&lines=Cloud+Security+Engineer"
-    style="vertical-align: sub;"
-    width="auto"
-    height="23"
-  />, with years of battle-tested experience in the digital trenches of FinTech and banking. I'm hardwired for safeguarding cloud environments and enhancing security posture, from proactive Cloud Security Posture Management (CSPM) and rapid incident response to building strong security communities. My ultimate mission: to fortify organizations and ensure their digital resilience in an ever-evolving threat landscape. I thrive on leveraging cutting-edge technologies and methodologies across:
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=%2339FF14&size=23&weight=600&width=415&height=35&duration=1500&pause=1000&lines=Cloud+Security+Engineer;DevSecOps+Specialist;Application+Security+Engineer;Zero+Trust+Advocate"
+  align="center"
+  height="30"
+/>, with years of battle-tested experience in the digital trenches of FinTech and banking. I'm hardwired for safeguarding cloud environments and enhancing security posture, from proactive Cloud Security Posture Management (CSPM) and rapid incident response to building strong security communities. My ultimate mission: to fortify organizations and ensure their digital resilience in an ever-evolving threat landscape. I thrive on leveraging cutting-edge technologies and methodologies across:
 </p>
 
   ➼ Cybersecurity Engineering<br/>
   ➼ Cloud Security<br/>
   ➼ Application Security<br/>
   ➼ DevSecOps
-
+  ➼ Information Security Management
+  
 ### Hands-on experience in:
 <p align="center">
     <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/Amazon_AWS-EC7211?style=for-the-badge&logo=amazon-aws&logoColor=white" /></a>
