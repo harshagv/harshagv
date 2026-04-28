@@ -5,9 +5,9 @@
 <p align="left">
   I am a
   <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=%2339FF14&size=23&weight=600&width=415&height=35&duration=1500&pause=1000&lines=Cloud+Security+Engineer;DevSecOps+Specialist;Application+Security+Engineer;Zero+Trust+Advocate"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=%2339FF14&size=23&weight=600&width=415&height=35&duration=1500&pause=1000&lines=Cloud+Security+Engineer;DevSecOps+Specialist;Zero+Trust+Advocate;Application+Security+Engineer;"
   align="center"
-  height="30"
+  height="24"
 />, with years of battle-tested experience in the digital trenches of FinTech and banking. I'm hardwired for safeguarding cloud environments and enhancing security posture, from proactive Cloud Security Posture Management (CSPM) and rapid incident response to building strong security communities. My ultimate mission: to fortify organizations and ensure their digital resilience in an ever-evolving threat landscape. I thrive on leveraging cutting-edge technologies and methodologies across:
 </p>
 
