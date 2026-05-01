@@ -78,19 +78,24 @@ The path to bringing balance to the Cloud-verse requires constant evolution. My 
 
 ## My GitHub Stats 👨🏾‍💻:
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshagv&theme=github_dark&bg_color=000000&title_color=39FF14&text_color=39FF14&icon_color=39FF14)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshagv&theme=github_dark&bg_color=000000&title_color=39FF14&text_color=39FF14&icon_color=39FF14)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harshagv&theme=github_dark&bg_color=000000&title_color=39FF14&text_color=39FF14&icon_color=39FF14)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshagv&theme=github_dark&bg_color=000000&title_color=39FF14&text_color=39FF14&icon_color=39FF14)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harshagv&theme=github_dark&bg_color=000000&title_color=39FF14&text_color=39FF14&icon_color=39FF14&utcOffset=8)
+<p align="center">
+  <table align="center">
+    <tr>
+      <td colspan="2"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshagv&theme=github_dark&bg_color=000000&title_color=39FF14&text_color=39FF14&icon_color=39FF14" width="100%"/></td>
+    </tr>
+    <tr>
+      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshagv&theme=github_dark&bg_color=000000&title_color=39FF14&text_color=39FF14&icon_color=39FF14" /></td>
+      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harshagv&theme=github_dark&bg_color=000000&title_color=39FF14&text_color=39FF14&icon_color=39FF14" /></td>
+    </tr>
+    <tr>
+      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshagv&theme=github_dark&bg_color=000000&title_color=39FF14&text_color=39FF14&icon_color=39FF14" /></td>
+      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harshagv&theme=github_dark&bg_color=000000&title_color=39FF14&text_color=39FF14&icon_color=39FF14&utcOffset=8" /></td>
+    </tr>
+  </table>
+</p>
 
 <br/>
 <br/>
-
-<div align="center">
-  <!-- Continuously running GIF without manual intervention -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Playing_T-Rex_Runner.gif" alt="T-Rex Chrome Dino Game" width="900" height="250" />
-</div>
 
 <!--Footer-->
 <p align="center"> 
@@ -98,3 +103,8 @@ The path to bringing balance to the Cloud-verse requires constant evolution. My 
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+  <!-- Continuously running GIF without manual intervention -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Playing_T-Rex_Runner.gif" alt="T-Rex Chrome Dino Game" width="100%" height="250" />
+</div>
