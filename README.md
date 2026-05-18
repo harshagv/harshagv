@@ -14,7 +14,7 @@
   ➼ Cybersecurity Engineering<br/>
   ➼ Cloud Security<br/>
   ➼ Application Security<br/>
-  ➼ DevSecOps
+  ➼ DevSecOps<br/>
   ➼ Information Security Management
   
 ### Hands-on experience in:
