@@ -1,82 +1,146 @@
-<!-- <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=F0F0FF&height=150&section=header&text=&fontSize=90&fontColor=39FF14"/> </p> -->
+<!--
+================================================================================
+  README — harshagv · Terminal Phosphor v2.0
+  Drop this file at:   harshagv/harshagv/README.md
+  Companion assets:    src/banner/active-scan.svg
+                       .github/workflows/snake.yml
+  Palette:             #06080a bg · #52FFAA accent · #7FDCFF cyan · #D8F3DC text
+================================================================================
+-->
 
-# Hello!<img src="https://github.com/harshagv/harshagv/blob/master/src/imgs/mona.gif" width="29"> I am [Harsha!](https://harshagv.me) 🥇👨‍💻☁️🛡️<img src="https://github.com/harshagv/harshagv/blob/master/src/imgs/earth.gif" width="29">
-<br/>
-<p align="left">
-  I am a
-  <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=%2339FF14&size=23&weight=600&width=415&height=35&duration=1500&pause=1000&lines=Cloud+Security+Engineer;DevSecOps+Specialist;Zero+Trust+Advocate;Application+Security+Engineer;"
-  align="center"
-  height="24"
-/>, with years of battle-tested experience in the digital trenches of FinTech and banking. I'm hardwired for safeguarding cloud environments and enhancing security posture, from proactive Cloud Security Posture Management (CSPM) and rapid incident response to building strong security communities. My ultimate mission: to fortify organizations and ensure their digital resilience in an ever-evolving threat landscape. I thrive on leveraging cutting-edge technologies and methodologies across:
-</p>
+<!-- ============ HERO BANNER (capsule-render, gradient) ============ -->
+<!-- <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B2A23-100:52FFAA&height=220&section=header&text=harsha%20g%20v&fontColor=D8F3DC&fontSize=64&desc=Cloud%20Security%20·%20DevSecOps%20·%20Zero%20Trust&descSize=18&descAlignY=70&animation=fadeIn" alt="harsha g v" />
+</p> -->
 
-  ➼ Cybersecurity Engineering<br/>
-  ➼ Cloud Security<br/>
-  ➼ Application Security<br/>
-  ➼ DevSecOps<br/>
-  ➼ Information Security Management
-  
-### Hands-on experience in:
+<!-- ============ ACTIVE SCAN HEADLINE (custom SVG with SMIL) ============ -->
 <p align="center">
-    <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/Amazon_AWS-EC7211?style=for-the-badge&logo=amazon-aws&logoColor=white" /></a>
-    <a href="https://azure.microsoft.com/en-us/" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" /></a>
-    <a href="https://kubernetes.io/" target="_blank"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /></a>
-    <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
-    <a href="https://podman.io/" target="_blank"><img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white" /></a>
-    <a href="https://sysdig.com/" target="_blank"><img src="https://img.shields.io/badge/Sysdig_Falco-BDF78B?style=for-the-badge&logo=sysdig&logoColor=white" /></a>
-    <a href="https://www.terraform.io/" target="_blank"><img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" /></a>
-    <a href="https://www.ansible.com/overview/it-automation" target="_blank"><img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" /></a>
-    <a href="https://www.cloudflare.com/" target="_blank"><img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" /></a>
-    <a href="https://snyk.io/" target="_blank"><img src="https://img.shields.io/badge/Snyk-383F76?style=for-the-badge&logo=snyk&logoColor=white" /></a>
-    <a href="https://prometheus.io/" target="_blank"><img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" /></a>
-    <a href="https://grafana.com/" target="_blank"><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" /></a>
-    <a href="https://www.sentinelone.com/" target="_blank"><img src="https://img.shields.io/badge/SentinelOne-6100FF?style=for-the-badge&logo=sentinelone&logoColor=white" /></a>
-    <a href="https://www.openvas.org/" target="_blank"><img src="https://img.shields.io/badge/OpenVAS-1C7C54?style=for-the-badge&logo=openvas&logoColor=white" /></a>
-    <a href="https://www.stackrox.io/" target="_blank"><img src="https://img.shields.io/badge/StackRox-222222?style=for-the-badge&logo=stackrox&logoColor=white" /></a>
-    <a href="https://www.virtualbox.org/" target="_blank"><img src="https://img.shields.io/badge/VirtualBox-193D8E?style=for-the-badge&logo=virtualbox&logoColor=white" /></a>
-    <a href="https://www.datadoghq.com/" target="_blank"><img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" /></a>
-    <a href="https://www.elastic.co/what-is/elk-stack" target="_blank"><img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" /></a>
-    <a href="https://www.splunk.com/" target="_blank"><img src="https://img.shields.io/badge/Splunk-EE1D62?style=for-the-badge&logo=splunk&logoColor=white" /></a>
+  <img src="src/banner/active-scan.svg" alt="&gt; hello, harsha here" width="520" />
 </p>
 
-My interest in cybersecurity, cloud services ecosystem, and kubernetes led me to obtain the following listed certificates:
+<!-- ============ TYPING ROLE ROTATOR ============ -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&color=52FFAA&size=22&weight=600&width=520&height=32&duration=1800&pause=900&lines=Cloud+Security+Engineer;DevSecOps+Specialist;Zero+Trust+Advocate;Application+Security+Engineer" alt="role rotator" />
+</p>
+
+<!-- ============ BRAND STATEMENT ============ -->
+> Years in the digital trenches of **FinTech & banking** — hardening cloud environments,
+> leading incident response, and building the kind of security posture that holds up
+> under adversarial pressure. My mission: fortify organizations and ensure their
+> digital resilience in an ever-evolving threat landscape.
+
+<br/>
+
+<!-- ============ FOCUS QUADRANT (currently exploring) ============ -->
+### 🌱 Currently exploring · *Next-Generation Cloud-Native Security*
+
+<table align="center">
+  <tr>
+    <td align="center" width="180">
+      <b>eBPF</b><br/>
+      <sub>runtime defense</sub>
+    </td>
+    <td align="center" width="180">
+      <b>Agentic AI</b><br/>
+      <sub>autonomous response</sub>
+    </td>
+    <td align="center" width="180">
+      <b>PQC + FHE</b><br/>
+      <sub>post-quantum privacy</sub>
+    </td>
+    <td align="center" width="180">
+      <b>Blockchain</b><br/>
+      <sub>immutable audit trails</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ============ STACK — grouped by function, not alphabet ============ -->
+### Hands-on with
+
+<table align="center">
+  <tr>
+    <td valign="top"><sub><b>CLOUD</b></sub></td>
+    <td>
+      <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-EC7211?style=for-the-badge&logo=amazon-aws&logoColor=white" /></a>
+      <a href="https://azure.microsoft.com/"><img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" /></a>
+      <a href="https://www.cloudflare.com/"><img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><sub><b>CONTAINERS<br/>&amp; IaC</b></sub></td>
+    <td>
+      <a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /></a>
+      <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
+      <a href="https://podman.io/"><img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white" /></a>
+      <a href="https://www.terraform.io/"><img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" /></a>
+      <a href="https://www.ansible.com/"><img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" /></a>
+      <a href="https://www.virtualbox.org/"><img src="https://img.shields.io/badge/VirtualBox-193D8E?style=for-the-badge&logo=virtualbox&logoColor=white" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><sub><b>SECURITY</b></sub></td>
+    <td>
+      <a href="https://sysdig.com/"><img src="https://img.shields.io/badge/Sysdig_Falco-00B4A6?style=for-the-badge&logo=sysdig&logoColor=white" /></a>
+      <a href="https://snyk.io/"><img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white" /></a>
+      <a href="https://www.sentinelone.com/"><img src="https://img.shields.io/badge/SentinelOne-6100FF?style=for-the-badge&logo=sentinelone&logoColor=white" /></a>
+      <a href="https://www.openvas.org/"><img src="https://img.shields.io/badge/OpenVAS-1C7C54?style=for-the-badge&logo=openvas&logoColor=white" /></a>
+      <a href="https://www.stackrox.io/"><img src="https://img.shields.io/badge/StackRox-222222?style=for-the-badge&logo=stackrox&logoColor=white" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><sub><b>OBSERVABILITY</b></sub></td>
+    <td>
+      <a href="https://prometheus.io/"><img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" /></a>
+      <a href="https://grafana.com/"><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" /></a>
+      <a href="https://www.datadoghq.com/"><img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" /></a>
+      <a href="https://www.elastic.co/elastic-stack"><img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" /></a>
+      <a href="https://www.splunk.com/"><img src="https://img.shields.io/badge/Splunk-EE1D62?style=for-the-badge&logo=splunk&logoColor=white" /></a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ============ CERTIFICATIONS ============ -->
+### Credentials
+
+<details open>
+<summary><b>Certifications</b> &nbsp; <sub>· click to collapse</sub></summary>
+
 1. <a href="https://www.credly.com/badges/c74071e9-8c82-41f9-97fc-4f0809057d9b">ISC² Certified in Cybersecurity (CC)</a>
-2. <a href="https://www.credly.com/badges/caa35793-d064-49be-8509-94685b90b26e">AWS Certified Security – Specialty</a>
-3. <a href="https://www.credly.com/badges/70f4c532-01b6-41fc-85cd-05be931b6d67">AWS Certified Solution Architect - Professional</a>
-4. <a href="https://www.credly.com/badges/238268f2-9296-4d38-9a97-cf2c8c87cec6">AWS Certified DevOps Engineer - Professional</a>
-5. <a href="https://www.credly.com/badges/f4ff4177-1d50-4ba3-9387-c2c193ea1033">CKS: Certified Kubernetes Security Specialist</a>
-6. <a href="https://www.credly.com/badges/fff121e3-2158-4d11-bee4-7563344c9599">CKA: Certified Kubernetes Administrator</a>
-7. <a href="https://www.credly.com/badges/d257f0c3-d1c0-4bf3-be03-f49e32715e58">KCNA: Kubernetes and Cloud Native Associate</a>
-8. Scrum Alliance certified <a href="https://badgecert.com/bc/html/profile.jsp?k=fdoihhc">Scrum Master</a> and <a href="https://badgecert.com/bc/html/profile.jsp?k=xyhdzjz">Product Owner</a>.</p>
+2. <a href="https://www.credly.com/badges/caa35793-d064-49be-8509-94685b90b26e">AWS Certified Security — Specialty</a>
+3. <a href="https://www.credly.com/badges/70f4c532-01b6-41fc-85cd-05be931b6d67">AWS Certified Solutions Architect — Professional</a>
+4. <a href="https://www.credly.com/badges/238268f2-9296-4d38-9a97-cf2c8c87cec6">AWS Certified DevOps Engineer — Professional</a>
+5. <a href="https://www.credly.com/badges/f4ff4177-1d50-4ba3-9387-c2c193ea1033">CKS — Certified Kubernetes Security Specialist</a>
+6. <a href="https://www.credly.com/badges/fff121e3-2158-4d11-bee4-7563344c9599">CKA — Certified Kubernetes Administrator</a>
+7. <a href="https://www.credly.com/badges/d257f0c3-d1c0-4bf3-be03-f49e32715e58">KCNA — Kubernetes and Cloud Native Associate</a>
+8. Scrum Alliance · <a href="https://badgecert.com/bc/html/profile.jsp?k=fdoihhc">Scrum Master</a> &amp; <a href="https://badgecert.com/bc/html/profile.jsp?k=xyhdzjz">Product Owner</a>
+
+</details>
 
 <br/>
 
-## 🌱 Currently Learning & Exploring: My Security Jedi Training Continues:
-The path to bringing balance to the Cloud-verse requires constant evolution. My current focus areas, pushing the -boundaries of Next-Generation Cloud-Native Security, include:
-- _eBPF-Powered Defenses_: Exploring advanced runtime security with eBPF-based solutions for unparalleled visibility and control.
-- _Agentic AI for Autonomous Security_: Delving into Agentic AI for autonomous threat detection, automated response, and ensuring continuous security compliance in dynamic cloud environments.
-- _Post-Quantum Cryptography (PQC) & Advanced Privacy_: Understanding the practical implementation of PQC to future-proof digital assets and exploring Homomorphic Encryption (FHE) for ultimate data privacy.
-- _Blockchain for Verifiable Cloud Security_: Researching how Blockchain can enhance digital forensics, ensure immutable audit trails, and address critical security challenges in cloud environments.
-<br/>
-<br/>
-
-## Find me around the web <img src="https://github.com/harshagv/harshagv/blob/master/src/imgs/earth.gif" width="19">:
+<!-- ============ FIND ME ============ -->
+### Find me around the web
 
 <p align="center">
-  <a href="https://builder.aws.com/community/@harshagv" target="_blank"><img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/svg/aws.svg" alt="AWS Community" style="width:48px; height:48px; filter: grayscale(1) brightness(0) invert(1) sepia(1) saturate(10000%) hue-rotate(100deg);"></a>&nbsp;&nbsp;
-  <a href="https://www.credly.com/users/harshagv/badges" target="_blank"><img src="https://images.credly.com/images/30087fe1-1753-45ab-9cfc-849b571faa10/blob" alt="Credly" style="width:48px; height:48px; filter: grayscale(1) brightness(0) invert(1) sepia(1) saturate(10000%) hue-rotate(100deg);"></a>&nbsp;&nbsp;
-  <a href="https://x.com/harsha_gv" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@11.4.0/icons/x.svg" alt="Twitter" style="width:48px; height:48px; filter: grayscale(1) brightness(0) invert(1) sepia(1) saturate(10000%) hue-rotate(100deg);"></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/harshagv/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" style="filter: grayscale(1) brightness(0) invert(1) sepia(1) saturate(10000%) hue-rotate(100deg);"></a>&nbsp;&nbsp;
-  <a href="https://leetcode.com/harsha_gv/" target="_blank"><img src="https://img.icons8.com/color/48/000000/code.png" alt="LeetCode" style="filter: grayscale(1) brightness(0) invert(1) sepia(1) saturate(10000%) hue-rotate(100deg);"></a>&nbsp;&nbsp;
-  <a href="https://stackoverflow.com/users/10053482/harsha-g-v" target="_blank"><img src="https://img.icons8.com/color/48/000000/stackoverflow.png" alt="Stack Overflow" style="filter: grayscale(1) brightness(0) invert(1) sepia(1) saturate(10000%) hue-rotate(100deg);"></a>&nbsp;&nbsp;
-  <a href="https://www.twitch.tv/harshagv" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitch--v1.png" alt="Twitch" style="filter: grayscale(1) brightness(0) invert(1) sepia(1) saturate(10000%) hue-rotate(100deg);"></a>&nbsp;&nbsp;
-  <a href="https://medium.com/@harshagv" target="_blank"><img src="https://img.icons8.com/color/48/000000/medium-logo.png" alt="Medium" style="filter: grayscale(1) brightness(0) invert(1) sepia(1) saturate(10000%) hue-rotate(100deg);"></a>
+  <a href="https://www.linkedin.com/in/harshagv/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/harsha_gv"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://medium.com/@harshagv"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://www.credly.com/users/harshagv/badges"><img src="https://img.shields.io/badge/Credly-FF6600?style=for-the-badge&logo=credly&logoColor=white" /></a>
+  <a href="https://builder.aws.com/community/@harshagv"><img src="https://img.shields.io/badge/AWS_Builder-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" /></a>
+  <a href="https://stackoverflow.com/users/10053482/harsha-g-v"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
+  <a href="https://leetcode.com/harsha_gv/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://harshagv.me"><img src="https://img.shields.io/badge/Website-52FFAA?style=for-the-badge&logo=hashnode&logoColor=black" /></a>
 </p>
 
 <br/>
 
-## My GitHub Stats 👨🏾‍💻:
+<!-- ============ GITHUB STATS (phosphor-graded) ============ -->
+### GitHub stats
 
 <p align="center">
   <table align="center">
@@ -95,16 +159,24 @@ The path to bringing balance to the Cloud-verse requires constant evolution. My 
 </p>
 
 <br/>
+
+<!-- ============ CONTRIBUTION SNAKE ============ -->
+### A year of work
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshagv/harshagv/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshagv/harshagv/output/snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/harshagv/harshagv/output/snake.svg" />
+</picture>
+
+<br/>
 <br/>
 
-<!--Footer-->
-<p align="center"> 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,6,8,9,10,22,24,25,30&height=100&section=footer"/>
+<!-- ============ FOOTER WAVE ============ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B2A23-100:52FFAA&height=100&section=footer" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-  <!-- Continuously running GIF without manual intervention -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Playing_T-Rex_Runner.gif" alt="T-Rex Chrome Dino Game" width="100%" height="250" />
-</div>
+<p align="center">
+  <sub><i>// thanks for stopping by · v2.0</i></sub>
+</p>
