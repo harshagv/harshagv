@@ -1,48 +1,62 @@
 <?xml version="1.0"?>
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 88" font-family="JetBrains Mono, Menlo, ui-monospace, monospace" font-weight="700" font-size="36">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 120" font-family="JetBrains Mono, Menlo, ui-monospace, monospace" font-weight="700" font-size="36">
 
+  
   <defs>
-    
     <filter id="phosphor-glow" x="-30%" y="-30%" width="160%" height="160%">
-      <feGaussianBlur stdDeviation="2.2" result="blur"></feGaussianBlur>
+      <feGaussianBlur stdDeviation="1.6" result="b"></feGaussianBlur>
       <feMerge>
-        <feMergeNode in="blur"></feMergeNode>
+        <feMergeNode in="b"></feMergeNode>
         <feMergeNode in="SourceGraphic"></feMergeNode>
       </feMerge>
     </filter>
   </defs>
 
   
-  <text x="20" y="58" fill="#FFFFFF" xml:space="preserve">&gt; hello, </text>
+  <rect x="0" y="0" width="720" height="120" rx="10" ry="10" fill="#06080A"></rect>
+
+  
+  <g opacity="0.06" fill="#52FFAA">
+    <rect x="0" y="0" width="720" height="1"></rect>
+    <rect x="0" y="20" width="720" height="1"></rect>
+    <rect x="0" y="40" width="720" height="1"></rect>
+    <rect x="0" y="60" width="720" height="1"></rect>
+    <rect x="0" y="80" width="720" height="1"></rect>
+    <rect x="0" y="100" width="720" height="1"></rect>
+  </g>
+
+  
+  <text x="32" y="74" fill="#FFFFFF">&gt;</text>
+  <text x="68" y="74" fill="#FFFFFF">hello,</text>
 
   
   <g filter="url(#phosphor-glow)">
-    <text x="220" y="58" fill="#1F3A2A">h
+    <text x="232" y="74" fill="#52FFAA">h
       
     </text>
-    <text x="242" y="58" fill="#1F3A2A">a
+    <text x="254" y="74" fill="#52FFAA">a
       
     </text>
-    <text x="264" y="58" fill="#1F3A2A">r
+    <text x="276" y="74" fill="#52FFAA">r
       
     </text>
-    <text x="286" y="58" fill="#1F3A2A">s
+    <text x="298" y="74" fill="#52FFAA">s
       
     </text>
-    <text x="308" y="58" fill="#1F3A2A">h
+    <text x="320" y="74" fill="#52FFAA">h
       
     </text>
-    <text x="330" y="58" fill="#1F3A2A">a
+    <text x="342" y="74" fill="#52FFAA">a
       
     </text>
   </g>
 
   
-  <text x="362" y="58" fill="#FFFFFF" xml:space="preserve"> here</text>
+  <text x="380" y="74" fill="#FFFFFF">here</text>
 
   
-  <rect x="452" y="32" width="14" height="32" fill="#52FFAA" opacity="0.85">
+  <rect x="476" y="46" width="14" height="32" fill="#52FFAA" opacity="0.9">
     
   </rect>
 </svg>
