@@ -182,6 +182,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B2A23-100:52FFAA&height=100&section=footer" />
 </p>
 
+
+<div align="center">
+  <!-- Continuously running GIF without manual intervention -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Playing_T-Rex_Runner.gif" alt="T-Rex Chrome Dino Game" width="100%" height="250" />
+</div>
+
 <p align="center">
   <sub><i>// thanks for stopping by · v2.0</i></sub>
 </p>
