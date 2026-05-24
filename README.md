@@ -13,22 +13,27 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B2A23-100:52FFAA&height=220&section=header&text=harsha%20g%20v&fontColor=D8F3DC&fontSize=64&desc=Cloud%20Security%20·%20DevSecOps%20·%20Zero%20Trust&descSize=18&descAlignY=70&animation=fadeIn" alt="harsha g v" />
 </p> -->
 
+<!-- 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&pause=1000&color=52FFAA&background=06080A00&multiline=true&width=435&lines=hello+harsha+here" alt="Typing SVG" /></a>
+ -->
+
 <!-- ============ ACTIVE SCAN HEADLINE (custom SVG with SMIL) ============ -->
 <p align="center">
   <img src="src/banner/active-scan.svg" alt="&gt; hello, harsha here" width="520" />
 </p>
 
 <!-- ============ TYPING ROLE ROTATOR ============ -->
-<p align="center">
+<p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&color=52FFAA&size=22&weight=600&width=520&height=32&duration=1800&pause=900&lines=Cloud+Security+Engineer;DevSecOps+Specialist;Zero+Trust+Advocate;Application+Security+Engineer" alt="role rotator" />
 </p>
 
 <!-- ============ BRAND STATEMENT ============ -->
-> Years in the digital trenches of **FinTech & banking** — hardening cloud environments,
-> leading incident response, and building the kind of security posture that holds up
+> Years in the digital trenches of **FinTech, Crypto & Banking**, 
+> hardening multi-cloud (AWS/Azure) environments and containerized platforms,
+> Specialized in Kubernetes security, secure SDLC enablement, 
+> and building a pragmatic security posture from the ground up that remains resilient
 > under adversarial pressure. My mission: fortify organizations and ensure their
 > digital resilience in an ever-evolving threat landscape.
-
 <br/>
 
 <!-- ============ FOCUS QUADRANT (currently exploring) ============ -->
@@ -161,7 +166,7 @@
 <br/>
 
 <!-- ============ CONTRIBUTION SNAKE ============ -->
-### A year of work
+<!-- ### A year of work
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshagv/harshagv/output/snake-dark.svg" />
@@ -170,7 +175,7 @@
 </picture>
 
 <br/>
-<br/>
+<br/> -->
 
 <!-- ============ FOOTER WAVE ============ -->
 <p align="center">
