@@ -24,7 +24,7 @@
 
 <!-- ============ TYPING ROLE ROTATOR ============ -->
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&color=52FFAA&size=22&weight=600&width=520&height=32&duration=1800&pause=900&lines=Cloud+Security+Engineer;DevSecOps+Specialist;Zero+Trust+Advocate;Application+Security+Engineer" alt="role rotator" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&color=52FFAA&size=22&weight=600&width=520&height=32&duration=1800&pause=900&lines=Cloud+Security+Engineer;DevSecOps+SME;Zero+Trust+Advocate;Application+Security+Engineer" alt="role rotator" />
 </p>
 
 <!-- ============ BRAND STATEMENT ============ -->
