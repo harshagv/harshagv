@@ -19,7 +19,7 @@
 
 <!-- ============ ACTIVE SCAN HEADLINE (custom SVG with SMIL) ============ -->
 <p align="center">
-  <img src="src/banner/active-scan.svg" alt="&gt; hello, harsha here" width="520" />
+  <img src="src/imgs/harsha_gv_github_hero.svg" alt="&gt; hello, harsha here" width="100%" />
 </p>
 
 <!-- ============ TYPING ROLE ROTATOR ============ -->
