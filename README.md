@@ -65,47 +65,93 @@
 <!-- ============ STACK — grouped by function, not alphabet ============ -->
 ### Hands-on with
 
-<table align="center">
-  <tr>
-    <td valign="top"><sub><b>CLOUD</b></sub></td>
-    <td>
-      <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-EC7211?style=for-the-badge&logo=amazon-aws&logoColor=white" /></a>
-      <a href="https://azure.microsoft.com/"><img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" /></a>
-      <a href="https://www.cloudflare.com/"><img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><sub><b>CONTAINERS<br/>&amp; IaC</b></sub></td>
-    <td>
-      <a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /></a>
-      <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
-      <a href="https://podman.io/"><img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white" /></a>
-      <a href="https://www.terraform.io/"><img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" /></a>
-      <a href="https://www.ansible.com/"><img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" /></a>
-      <a href="https://www.virtualbox.org/"><img src="https://img.shields.io/badge/VirtualBox-193D8E?style=for-the-badge&logo=virtualbox&logoColor=white" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><sub><b>SECURITY</b></sub></td>
-    <td>
-      <a href="https://sysdig.com/"><img src="https://img.shields.io/badge/Sysdig_Falco-00B4A6?style=for-the-badge&logo=sysdig&logoColor=white" /></a>
-      <a href="https://snyk.io/"><img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white" /></a>
-      <a href="https://www.sentinelone.com/"><img src="https://img.shields.io/badge/SentinelOne-6100FF?style=for-the-badge&logo=sentinelone&logoColor=white" /></a>
-      <a href="https://www.openvas.org/"><img src="https://img.shields.io/badge/OpenVAS-1C7C54?style=for-the-badge&logo=openvas&logoColor=white" /></a>
-      <a href="https://www.stackrox.io/"><img src="https://img.shields.io/badge/StackRox-222222?style=for-the-badge&logo=stackrox&logoColor=white" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><sub><b>OBSERVABILITY</b></sub></td>
-    <td>
-      <a href="https://prometheus.io/"><img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" /></a>
-      <a href="https://grafana.com/"><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" /></a>
-      <a href="https://www.datadoghq.com/"><img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" /></a>
-      <a href="https://www.elastic.co/elastic-stack"><img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" /></a>
-      <a href="https://www.splunk.com/"><img src="https://img.shields.io/badge/Splunk-EE1D62?style=for-the-badge&logo=splunk&logoColor=white" /></a>
-    </td>
-  </tr>
+<table>
+<tbody>
+<tr>
+<td><strong>CLOUD<br>&amp; PLATFORM</strong></td>
+<td>
+<a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/Amazon_AWS-EC7211?style=for-the-badge&amp;logo=amazon-aws&amp;logoColor=white" alt="Amazon AWS"></a>
+<a href="https://azure.microsoft.com/"><img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&amp;logo=microsoft-azure&amp;logoColor=white" alt="Microsoft Azure"></a>
+<a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&amp;logo=kubernetes&amp;logoColor=white" alt="Kubernetes"></a>
+<a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker"></a>
+<a href="https://www.terraform.io/"><img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&amp;logo=terraform&amp;logoColor=white" alt="Terraform"></a>
+<a href="https://www.cloudflare.com/"><img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&amp;logo=cloudflare&amp;logoColor=white" alt="Cloudflare"></a>
+</td>
+</tr>
+<tr>
+<td><strong>IDENTITY<br>&amp; SECRETS</strong></td>
+<td>
+<a href="https://goteleport.com/"><img src="https://img.shields.io/badge/Teleport-18181A?style=for-the-badge&amp;logo=teleport&amp;logoColor=white" alt="Teleport"></a>
+<a href="https://www.microsoft.com/security/business/microsoft-entra"><img src="https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=for-the-badge" alt="Microsoft Entra ID"></a>
+<a href="https://duo.com/"><img src="https://img.shields.io/badge/Duo-4F9A2E?style=for-the-badge" alt="Duo"></a>
+<a href="https://www.vaultproject.io/"><img src="https://img.shields.io/badge/HashiCorp_Vault-FFD814?style=for-the-badge&amp;logo=vault&amp;logoColor=black" alt="HashiCorp Vault"></a>
+<a href="https://www.jamf.com/"><img src="https://img.shields.io/badge/Jamf-494C50?style=for-the-badge&amp;logo=jamf&amp;logoColor=white" alt="Jamf"></a>
+<a href="https://www.microsoft.com/security/business/microsoft-intune"><img src="https://img.shields.io/badge/Intune-0063B1?style=for-the-badge" alt="Intune"></a>
+</td>
+</tr>
+<tr>
+<td><strong>DEVSECOPS<br>&amp; APPSEC</strong></td>
+<td>
+<a href="https://snyk.io/"><img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&amp;logo=snyk&amp;logoColor=white" alt="Snyk"></a>
+<a href="https://trivy.dev/"><img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&amp;logo=trivy&amp;logoColor=white" alt="Trivy"></a>
+<a href="https://www.checkov.io/"><img src="https://img.shields.io/badge/Checkov-5B3CC4?style=for-the-badge" alt="Checkov"></a>
+<a href="https://github.com/security"><img src="https://img.shields.io/badge/GitHub_Advanced_Security-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub Advanced Security"></a>
+<a href="https://www.sonarsource.com/products/sonarqube/"><img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&amp;logo=sonarqube&amp;logoColor=white" alt="SonarQube"></a>
+<a href="https://azure.microsoft.com/products/devops"><img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge" alt="Azure DevOps"></a>
+<a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&amp;logo=githubactions&amp;logoColor=white" alt="GitHub Actions"></a>
+<a href="https://portswigger.net/burp"><img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&amp;logo=burpsuite&amp;logoColor=white" alt="Burp Suite"></a>
+<a href="https://www.zaproxy.org/"><img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&amp;logo=owasp&amp;logoColor=white" alt="OWASP ZAP"></a>
+</td>
+</tr>
+<tr>
+<td><strong>CLOUD &amp;<br>CONTAINER SEC</strong></td>
+<td>
+<a href="https://falco.org/"><img src="https://img.shields.io/badge/Falco-E71822?style=for-the-badge&amp;logo=falco&amp;logoColor=white" alt="Falco"></a>
+<a href="https://www.stackrox.io/"><img src="https://img.shields.io/badge/StackRox-E31837?style=for-the-badge&amp;logo=redhat&amp;logoColor=white" alt="StackRox"></a>
+<a href="https://aws.amazon.com/security-hub/"><img src="https://img.shields.io/badge/AWS_Security_Hub-DD344C?style=for-the-badge" alt="AWS Security Hub"></a>
+<a href="https://aws.amazon.com/guardduty/"><img src="https://img.shields.io/badge/GuardDuty-BF0816?style=for-the-badge" alt="GuardDuty"></a>
+<a href="https://azure.microsoft.com/products/defender-for-cloud"><img src="https://img.shields.io/badge/Defender_for_Cloud-005BA1?style=for-the-badge" alt="Defender for Cloud"></a>
+<a href="https://www.aquasec.com/"><img src="https://img.shields.io/badge/Aqua_Security-08B1D5?style=for-the-badge" alt="Aqua Security"></a>
+</td>
+</tr>
+<tr>
+<td><strong>DETECTION<br>&amp; RESPONSE</strong></td>
+<td>
+<a href="https://www.crowdstrike.com/"><img src="https://img.shields.io/badge/CrowdStrike-FC0000?style=for-the-badge&amp;logo=crowdstrike&amp;logoColor=white" alt="CrowdStrike"></a>
+<a href="https://www.sentinelone.com/"><img src="https://img.shields.io/badge/SentinelOne-6100FF?style=for-the-badge&amp;logo=sentinelone&amp;logoColor=white" alt="SentinelOne"></a>
+<a href="https://www.splunk.com/"><img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&amp;logo=splunk&amp;logoColor=white" alt="Splunk"></a>
+<a href="https://www.elastic.co/"><img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&amp;logo=elasticstack&amp;logoColor=white" alt="ELK Stack"></a>
+<a href="https://azure.microsoft.com/products/microsoft-sentinel"><img src="https://img.shields.io/badge/Microsoft_Sentinel-0072C6?style=for-the-badge" alt="Microsoft Sentinel"></a>
+<a href="https://wazuh.com/"><img src="https://img.shields.io/badge/Wazuh-3595F9?style=for-the-badge&amp;logo=wazuh&amp;logoColor=white" alt="Wazuh"></a>
+<a href="https://www.zscaler.com/"><img src="https://img.shields.io/badge/Zscaler-0090D0?style=for-the-badge&amp;logo=zscaler&amp;logoColor=white" alt="Zscaler"></a>
+<a href="https://www.tenable.com/products/nessus"><img src="https://img.shields.io/badge/Tenable_Nessus-00A3A1?style=for-the-badge" alt="Tenable Nessus"></a>
+</td>
+</tr>
+<tr>
+<td><strong>OBSERVABILITY</strong></td>
+<td>
+<a href="https://www.datadoghq.com/"><img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&amp;logo=datadog&amp;logoColor=white" alt="Datadog"></a>
+<a href="https://prometheus.io/"><img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&amp;logo=prometheus&amp;logoColor=white" alt="Prometheus"></a>
+<a href="https://grafana.com/"><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&amp;logo=grafana&amp;logoColor=white" alt="Grafana"></a>
+</td>
+</tr>
+<tr>
+<td><strong>LANGUAGES</strong></td>
+<td>
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python"></a>
+<a href="https://go.dev/"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&amp;logo=go&amp;logoColor=white" alt="Go"></a>
+<a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&amp;logo=gnubash&amp;logoColor=white" alt="Bash"></a>
+</td>
+</tr>
+</tbody>
 </table>
+
+<!-- Not on CV — re-add only if you can speak to real use:
+<a href="https://sysdig.com/"><img src="https://img.shields.io/badge/Sysdig-BDF78B?style=for-the-badge&amp;logo=sysdig&amp;logoColor=black" alt="Sysdig"></a>
+<a href="https://www.ansible.com/"><img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&amp;logo=ansible&amp;logoColor=white" alt="Ansible"></a>
+<a href="https://podman.io/"><img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&amp;logo=podman&amp;logoColor=white" alt="Podman"></a>
+-->
+
 
 <br/>
 
